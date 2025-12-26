@@ -1,0 +1,1201 @@
+Trip_ID,Operator,Origin,Destination,Scheduled_Departure,Delay_Minutes,Cancelled,Feedback_Cleanliness,Feedback_Punctuality,Feedback_Comfort,Feedback_Staff,Tickets_Sold,Occupancy_Rate(%),date
+T0226,KPN Travels,Bangalore,Hyderabad,17:22,0,0,3,2,5,5,40,71.47,2024-06-01
+T0494,Parveen Travels,Delhi,Kolkata,13:10,5,0,1,4,2,3,38,88.64,2024-06-01
+T0383,TNSTC,Bangalore,Pune,09:58,15,0,1,2,2,4,35,92.5,2024-06-01
+T0155,Orange Travels,Pune,Hyderabad,13:31,45,0,5,1,5,4,35,46.94,2024-06-01
+T0839,VRL,Kolkata,Delhi,12:58,0,0,2,5,3,1,18,87.82,2024-06-01
+T0151,Parveen Travels,Delhi,Pune,13:29,0,0,1,2,2,1,12,72.52,2024-06-01
+T0590,TNSTC,Delhi,Hyderabad,16:17,60,0,1,5,3,5,27,84.9,2024-06-01
+T0083,Parveen Travels,Bangalore,Kolkata,12:53,90,0,4,2,5,1,47,52.58,2024-06-02
+T0671,KPN Travels,Pune,Bangalore,05:26,10,0,1,1,4,5,11,75.79,2024-06-02
+T0779,TNSTC,Pune,Mumbai,12:47,15,0,1,4,3,3,49,79.9,2024-06-02
+T1000,KPN Travels,Bangalore,Delhi,23:43,20,0,4,4,4,2,24,81.42,2024-06-03
+T1027,Parveen Travels,Mumbai,Chennai,18:44,0,1,1,3,5,1,33,91.41,2024-06-04
+T0920,TNSTC,Mumbai,Kolkata,05:58,60,0,1,2,1,3,45,44.66,2024-06-04
+T0563,Parveen Travels,Pune,Kolkata,03:14,45,1,5,4,5,3,46,47.15,2024-06-04
+T0795,Orange Travels,Bangalore,Hyderabad,05:54,60,1,2,3,1,2,14,62.91,2024-06-04
+T0124,Parveen Travels,Kolkata,Hyderabad,23:23,45,0,2,2,5,5,33,96.55,2024-06-05
+T0933,KPN Travels,Mumbai,Kolkata,08:38,45,0,3,4,4,1,24,40.7,2024-06-05
+T0841,KPN Travels,Bangalore,Hyderabad,11:08,90,0,2,2,1,1,33,88.01,2024-06-06
+T0180,Orange Travels,Mumbai,Pune,20:36,15,0,1,3,4,3,52,75.73,2024-06-06
+T1197,KSRTC,Chennai,Kolkata,17:26,15,0,1,1,2,2,35,78.23,2024-06-06
+T1018,Orange Travels,Chennai,Bangalore,07:48,15,0,2,1,5,3,10,72.15,2024-06-06
+T0926,Orange Travels,Hyderabad,Kolkata,01:28,45,0,5,5,3,2,43,40.99,2024-06-06
+T0518,Orange Travels,Mumbai,Chennai,19:57,15,0,3,5,5,5,27,90.99,2024-06-07
+T0162,VRL,Bangalore,Pune,02:59,5,1,5,1,3,3,29,78.92,2024-06-08
+T0328,SRS Travels,Delhi,Mumbai,14:54,30,0,5,1,5,2,40,48.84,2024-06-09
+T0242,KPN Travels,Kolkata,Mumbai,04:23,90,0,4,2,5,1,51,42.09,2024-06-09
+T1200,SRS Travels,Kolkata,Mumbai,00:32,0,0,1,3,1,1,58,79.11,2024-06-09
+T0417,TNSTC,Pune,Hyderabad,22:06,90,0,1,5,4,1,40,69.68,2024-06-10
+T0745,VRL,Delhi,Mumbai,12:09,10,0,5,3,5,3,38,70.13,2024-06-11
+T0048,TNSTC,Hyderabad,Bangalore,15:14,30,0,5,4,2,5,46,77.15,2024-06-11
+T0062,TNSTC,Bangalore,Mumbai,22:25,20,0,4,1,1,4,19,53.19,2024-06-12
+T0192,KSRTC,Pune,Bangalore,23:22,60,1,3,1,4,4,51,59.57,2024-06-12
+T0887,Parveen Travels,Mumbai,Kolkata,04:11,30,1,4,3,1,3,16,64.85,2024-06-13
+T0596,Parveen Travels,Hyderabad,Chennai,23:49,60,0,5,3,3,5,18,47.04,2024-06-14
+T0289,VRL,Kolkata,Bangalore,08:30,30,0,1,3,5,3,38,79.59,2024-06-14
+T0872,SRS Travels,Chennai,Pune,05:36,45,0,3,5,4,5,54,78.75,2024-06-14
+T0421,VRL,Kolkata,Pune,15:08,30,0,2,4,2,5,32,48.94,2024-06-15
+T0961,Orange Travels,Bangalore,Delhi,01:46,30,0,5,3,2,1,31,54.04,2024-06-15
+T0393,Orange Travels,Kolkata,Mumbai,07:48,0,0,3,1,5,2,59,85.09,2024-06-16
+T0736,KPN Travels,Bangalore,Pune,01:05,45,0,3,4,3,1,15,92.95,2024-06-16
+T0220,VRL,Kolkata,Chennai,07:56,0,0,2,3,1,4,54,74.02,2024-06-16
+T0536,Parveen Travels,Pune,Hyderabad,22:46,60,0,2,4,5,5,12,81.16,2024-06-16
+T0519,Parveen Travels,Hyderabad,Pune,17:37,20,0,2,3,5,4,43,75.37,2024-06-17
+T0832,Parveen Travels,Mumbai,Chennai,03:56,0,0,3,3,2,5,38,57.63,2024-06-17
+T0725,Orange Travels,Kolkata,Chennai,20:42,0,0,2,3,5,1,56,53.93,2024-06-17
+T1142,SRS Travels,Chennai,Hyderabad,05:59,5,1,2,1,4,1,55,53.36,2024-06-17
+T0720,SRS Travels,Pune,Kolkata,16:24,15,0,3,1,5,1,42,50.03,2024-06-18
+T0757,VRL,Hyderabad,Delhi,22:59,0,0,3,5,5,4,55,48.82,2024-06-18
+T0120,SRS Travels,Delhi,Hyderabad,10:33,90,0,5,1,1,2,13,50.5,2024-06-19
+T0326,Orange Travels,Chennai,Kolkata,22:38,45,0,1,4,5,4,21,50.67,2024-06-20
+T0651,VRL,Mumbai,Hyderabad,15:20,30,0,5,3,1,5,14,51.4,2024-06-20
+T0341,Orange Travels,Chennai,Pune,06:20,60,0,4,5,1,2,20,50.46,2024-06-21
+T1019,VRL,Mumbai,Hyderabad,10:50,45,0,2,2,2,5,18,58.07,2024-06-21
+T1011,KPN Travels,Hyderabad,Mumbai,10:10,15,0,1,1,1,4,32,92.78,2024-06-21
+T0497,KSRTC,Delhi,Hyderabad,09:36,10,0,2,3,3,4,52,95.54,2024-06-22
+T0800,VRL,Delhi,Mumbai,12:52,10,0,2,5,5,5,22,89.72,2024-06-23
+T0643,KSRTC,Mumbai,Hyderabad,14:04,90,0,2,3,1,5,44,72.94,2024-06-23
+T0350,Parveen Travels,Kolkata,Chennai,19:13,5,0,2,2,2,5,31,47.95,2024-06-23
+T1177,VRL,Mumbai,Delhi,05:54,45,0,1,2,2,2,18,73.96,2024-06-23
+T0343,SRS Travels,Delhi,Bangalore,02:14,90,1,5,3,5,4,50,58.1,2024-06-24
+T0238,Parveen Travels,Hyderabad,Bangalore,06:24,20,0,1,3,2,2,48,90.07,2024-06-24
+T0907,KPN Travels,Hyderabad,Pune,15:29,90,0,5,2,1,1,59,59.46,2024-06-25
+T0986,Parveen Travels,Kolkata,Delhi,15:11,90,0,2,5,5,1,47,50.7,2024-06-26
+T1092,TNSTC,Delhi,Chennai,04:14,45,1,4,3,3,3,40,47.37,2024-06-27
+T0288,TNSTC,Delhi,Chennai,09:06,10,1,1,4,5,4,60,68.65,2024-06-27
+T0650,SRS Travels,Kolkata,Pune,01:23,0,0,3,4,1,1,53,76.09,2024-06-29
+T0630,Orange Travels,Delhi,Mumbai,21:44,0,0,4,4,5,1,39,42.56,2024-06-29
+T0104,VRL,Mumbai,Kolkata,01:48,60,0,4,3,3,3,25,73.47,2024-06-30
+T0357,TNSTC,Hyderabad,Pune,10:28,60,0,5,4,1,2,31,88.24,2024-07-01
+T1048,SRS Travels,Delhi,Pune,03:51,30,0,1,2,2,4,49,61.39,2024-07-01
+T0355,KPN Travels,Delhi,Pune,11:54,45,0,2,3,3,1,46,48.05,2024-07-01
+T0813,KPN Travels,Delhi,Hyderabad,04:23,0,0,2,3,3,5,32,98.12,2024-07-01
+T0183,KPN Travels,Bangalore,Hyderabad,06:24,15,0,3,4,2,2,38,74.98,2024-07-01
+T0367,KSRTC,Mumbai,Pune,09:01,0,0,2,4,4,2,43,73.87,2024-07-03
+T0189,VRL,Hyderabad,Mumbai,10:24,60,0,5,3,5,1,10,93.24,2024-07-03
+T0691,TNSTC,Delhi,Kolkata,09:54,0,0,5,5,2,5,39,56.49,2024-07-04
+T0345,TNSTC,Kolkata,Pune,13:19,15,0,4,5,4,2,12,47.53,2024-07-04
+T0649,KSRTC,Hyderabad,Bangalore,17:28,90,0,4,4,3,4,52,66.31,2024-07-04
+T0752,KPN Travels,Bangalore,Mumbai,17:33,90,0,1,3,5,5,54,70.6,2024-07-04
+T1188,Orange Travels,Pune,Chennai,02:21,10,1,2,5,1,1,32,44.25,2024-07-05
+T0940,KSRTC,Hyderabad,Pune,06:05,60,0,2,3,5,4,37,50.63,2024-07-05
+T1015,Orange Travels,Delhi,Kolkata,15:11,10,0,3,4,4,1,18,70.68,2024-07-06
+T0237,TNSTC,Kolkata,Bangalore,19:34,60,1,5,2,2,3,49,63.54,2024-07-06
+T0966,Orange Travels,Delhi,Mumbai,02:12,90,0,5,3,2,3,24,68.2,2024-07-06
+T0363,TNSTC,Pune,Bangalore,11:11,90,1,2,1,4,5,38,43.71,2024-07-07
+T0993,KPN Travels,Hyderabad,Delhi,13:38,20,0,1,4,4,2,58,89.78,2024-07-08
+T0429,KPN Travels,Chennai,Delhi,22:43,5,0,4,5,4,4,42,81.94,2024-07-09
+T0723,VRL,Chennai,Delhi,15:45,10,0,1,4,5,4,58,70.42,2024-07-09
+T0279,KPN Travels,Kolkata,Bangalore,05:57,0,0,4,4,5,5,49,56.56,2024-07-09
+T0051,VRL,Bangalore,Kolkata,14:22,60,0,1,3,2,3,18,82.83,2024-07-09
+T0994,VRL,Delhi,Kolkata,02:34,10,0,4,5,2,2,14,55.48,2024-07-09
+T0914,SRS Travels,Chennai,Delhi,09:50,0,0,1,1,2,5,31,86.47,2024-07-09
+T0929,TNSTC,Chennai,Bangalore,05:55,30,0,5,4,5,2,32,52.48,2024-07-10
+T0664,Parveen Travels,Pune,Kolkata,20:45,0,0,2,5,3,1,16,42.65,2024-07-10
+T0538,Parveen Travels,Kolkata,Hyderabad,07:37,15,0,2,5,1,1,36,49.46,2024-07-10
+T0783,TNSTC,Pune,Mumbai,17:42,10,0,2,3,1,1,41,61.37,2024-07-11
+T0504,SRS Travels,Pune,Bangalore,17:58,10,0,1,4,3,3,28,60.71,2024-07-12
+T0740,TNSTC,Pune,Hyderabad,06:16,20,0,2,3,2,5,59,96.37,2024-07-12
+T0617,KPN Travels,Mumbai,Kolkata,03:24,0,0,2,4,2,2,51,43.96,2024-07-12
+T0265,Parveen Travels,Delhi,Hyderabad,10:44,0,0,1,1,4,1,43,41.45,2024-07-13
+T0233,TNSTC,Delhi,Bangalore,12:19,0,0,4,2,5,2,10,53.56,2024-07-13
+T0539,SRS Travels,Mumbai,Chennai,16:32,20,0,1,4,1,4,10,63.47,2024-07-13
+T0946,TNSTC,Mumbai,Hyderabad,21:12,15,0,2,1,2,4,33,56.25,2024-07-13
+T0594,Orange Travels,Hyderabad,Delhi,01:38,5,0,2,3,1,5,18,64.61,2024-07-13
+T0892,KPN Travels,Kolkata,Chennai,05:35,0,0,2,1,5,3,21,60.35,2024-07-14
+T0490,Orange Travels,Hyderabad,Bangalore,10:25,5,0,3,5,3,4,23,49.65,2024-07-14
+T0814,SRS Travels,Bangalore,Kolkata,01:28,30,0,2,5,1,1,11,83.96,2024-07-15
+T0654,KPN Travels,Bangalore,Chennai,17:52,60,0,5,1,2,2,56,97.12,2024-07-15
+T0088,SRS Travels,Delhi,Mumbai,09:49,20,0,1,1,1,3,41,90.64,2024-07-15
+T0075,SRS Travels,Hyderabad,Chennai,16:28,0,0,3,4,4,5,40,71.17,2024-07-15
+T0931,TNSTC,Pune,Mumbai,15:07,15,0,3,4,2,4,35,58.89,2024-07-16
+T0821,Orange Travels,Chennai,Delhi,23:42,30,0,1,3,4,2,55,89.55,2024-07-18
+T1007,TNSTC,Hyderabad,Kolkata,07:09,30,0,1,4,1,3,58,61.48,2024-07-18
+T0274,Orange Travels,Pune,Chennai,06:18,0,0,5,2,2,3,43,88.31,2024-07-19
+T0863,Parveen Travels,Chennai,Bangalore,09:18,30,1,2,1,3,2,21,71.51,2024-07-19
+T0378,SRS Travels,Bangalore,Chennai,04:33,45,0,1,5,5,2,52,45.2,2024-07-19
+T0558,Orange Travels,Hyderabad,Pune,10:33,0,0,1,5,5,1,51,68.66,2024-07-19
+T0134,TNSTC,Mumbai,Chennai,14:39,45,0,2,2,5,1,51,99.01,2024-07-19
+T0582,VRL,Bangalore,Hyderabad,06:49,45,1,1,2,3,2,25,96.94,2024-07-20
+T0868,KSRTC,Chennai,Bangalore,03:23,60,0,2,4,4,4,38,57.32,2024-07-20
+T0356,SRS Travels,Chennai,Mumbai,10:57,5,0,3,5,4,1,51,58.63,2024-07-20
+T0123,Parveen Travels,Mumbai,Bangalore,22:02,0,0,1,3,2,2,21,86.97,2024-07-20
+T0292,KPN Travels,Delhi,Hyderabad,01:07,45,1,5,4,5,5,12,89.52,2024-07-21
+T0733,SRS Travels,Bangalore,Mumbai,04:07,0,0,3,5,4,2,53,51.67,2024-07-21
+T0767,Parveen Travels,Bangalore,Delhi,15:05,5,0,1,2,3,2,35,94.17,2024-07-22
+T0273,KSRTC,Hyderabad,Bangalore,12:02,0,0,2,1,4,3,32,99.62,2024-07-22
+T0103,TNSTC,Hyderabad,Kolkata,22:37,10,0,1,2,1,1,33,84.26,2024-07-22
+T0468,KPN Travels,Chennai,Bangalore,04:36,90,1,5,4,3,2,59,97.39,2024-07-22
+T0335,VRL,Hyderabad,Bangalore,17:29,0,1,3,3,3,2,45,99.58,2024-07-23
+T0442,Parveen Travels,Kolkata,Mumbai,00:01,30,0,4,4,2,1,22,89.96,2024-07-23
+T0528,Orange Travels,Kolkata,Delhi,10:21,60,0,4,3,4,3,58,41.36,2024-07-23
+T0560,TNSTC,Pune,Mumbai,01:13,5,0,4,5,3,3,30,50.36,2024-07-23
+T0827,Parveen Travels,Mumbai,Kolkata,05:08,0,1,3,4,1,4,28,91.54,2024-07-23
+T0277,SRS Travels,Hyderabad,Delhi,17:32,10,0,4,3,4,5,20,55.49,2024-07-24
+T1126,KPN Travels,Mumbai,Delhi,04:14,90,0,1,5,3,3,11,54.95,2024-07-24
+T0255,Parveen Travels,Chennai,Delhi,21:59,15,1,5,3,5,2,27,70.24,2024-07-25
+T0932,TNSTC,Kolkata,Chennai,12:31,30,1,2,5,3,2,32,81.22,2024-07-25
+T0859,VRL,Pune,Hyderabad,17:57,20,0,2,3,5,5,20,53.01,2024-07-25
+T0712,KPN Travels,Mumbai,Chennai,04:39,45,1,2,3,1,5,57,81.71,2024-07-25
+T0728,Parveen Travels,Hyderabad,Pune,02:21,45,0,1,5,4,5,29,73.09,2024-07-26
+T0824,TNSTC,Bangalore,Delhi,16:03,45,1,5,1,4,1,15,53.89,2024-07-26
+T1066,SRS Travels,Kolkata,Delhi,08:35,90,0,5,3,5,2,37,55.83,2024-07-27
+T0023,VRL,Delhi,Bangalore,04:01,45,1,5,2,4,2,30,70.82,2024-07-29
+T1154,Orange Travels,Pune,Kolkata,13:46,15,0,4,4,2,4,47,94.17,2024-07-30
+T0239,KPN Travels,Delhi,Bangalore,07:37,45,1,1,3,1,3,35,56.47,2024-07-30
+T0944,Orange Travels,Hyderabad,Pune,19:22,5,0,4,4,2,1,48,81.96,2024-07-30
+T0398,TNSTC,Hyderabad,Chennai,02:08,10,0,4,5,5,3,46,44.78,2024-07-31
+T0682,Orange Travels,Mumbai,Pune,18:42,0,0,5,4,4,3,11,57.13,2024-08-01
+T0458,TNSTC,Bangalore,Hyderabad,14:05,45,0,4,1,1,5,11,73.92,2024-08-01
+T0306,Parveen Travels,Pune,Kolkata,08:29,30,0,1,2,2,5,10,71.7,2024-08-02
+T1161,KSRTC,Pune,Bangalore,15:24,30,0,2,1,3,2,55,43.16,2024-08-02
+T0621,TNSTC,Kolkata,Delhi,23:17,90,0,4,2,5,3,19,71.87,2024-08-02
+T0952,Orange Travels,Delhi,Pune,14:39,5,0,3,1,4,5,18,70.55,2024-08-02
+T0010,VRL,Chennai,Delhi,17:42,10,0,2,3,3,4,25,49.55,2024-08-02
+T0319,SRS Travels,Hyderabad,Bangalore,02:33,0,0,5,2,2,1,31,75.52,2024-08-03
+T0963,VRL,Kolkata,Delhi,03:51,20,0,5,4,2,3,51,80.55,2024-08-03
+T0678,KSRTC,Kolkata,Pune,04:32,45,0,3,3,1,3,15,71.08,2024-08-03
+T0633,Orange Travels,Hyderabad,Mumbai,08:33,60,1,1,3,5,1,16,96.4,2024-08-03
+T1107,KPN Travels,Pune,Kolkata,10:10,5,0,5,1,1,1,25,56.8,2024-08-04
+T0661,Parveen Travels,Chennai,Kolkata,07:46,20,1,1,2,4,5,45,81.78,2024-08-04
+T0268,VRL,Chennai,Mumbai,11:19,0,0,2,5,2,3,33,67.39,2024-08-04
+T0063,Orange Travels,Chennai,Mumbai,15:34,90,0,3,2,2,3,41,93.1,2024-08-05
+T0713,TNSTC,Hyderabad,Kolkata,10:09,0,0,3,3,5,5,42,79.42,2024-08-05
+T1125,KSRTC,Mumbai,Pune,08:26,0,0,1,4,2,5,15,42.63,2024-08-08
+T1025,Parveen Travels,Bangalore,Mumbai,00:39,60,1,5,2,4,5,47,54.62,2024-08-08
+T0061,Orange Travels,Mumbai,Bangalore,06:47,15,0,2,4,3,3,11,43.98,2024-08-08
+T1140,SRS Travels,Chennai,Delhi,13:03,10,0,3,2,3,5,12,47.21,2024-08-10
+T0747,KSRTC,Chennai,Hyderabad,09:16,15,0,1,2,3,4,23,62.61,2024-08-10
+T0475,KPN Travels,Mumbai,Delhi,15:53,20,0,5,2,5,1,19,66.0,2024-08-11
+T0414,SRS Travels,Chennai,Pune,22:23,45,0,2,5,5,3,33,73.8,2024-08-11
+T0471,TNSTC,Chennai,Mumbai,01:21,30,1,3,5,1,5,21,73.73,2024-08-12
+T0349,SRS Travels,Kolkata,Pune,12:03,60,0,1,2,4,3,50,50.05,2024-08-12
+T0205,TNSTC,Chennai,Bangalore,05:50,0,0,3,5,1,1,31,84.27,2024-08-12
+T0672,KPN Travels,Bangalore,Mumbai,13:10,15,0,5,4,2,5,54,91.97,2024-08-12
+T1073,VRL,Chennai,Hyderabad,00:23,45,0,5,3,5,2,54,90.9,2024-08-13
+T0110,SRS Travels,Delhi,Kolkata,19:39,30,0,3,2,4,4,56,43.74,2024-08-13
+T0637,KSRTC,Hyderabad,Kolkata,21:58,5,0,4,5,5,5,53,96.7,2024-08-15
+T0860,TNSTC,Delhi,Mumbai,19:31,60,1,4,4,1,5,45,66.95,2024-08-16
+T0625,TNSTC,Mumbai,Bangalore,16:38,5,0,5,4,5,3,39,94.43,2024-08-17
+T0902,VRL,Bangalore,Mumbai,09:41,10,0,2,5,3,3,54,45.09,2024-08-17
+T0163,SRS Travels,Pune,Hyderabad,15:28,0,0,1,1,4,4,38,81.44,2024-08-17
+T0983,SRS Travels,Delhi,Pune,22:33,10,0,1,4,3,2,42,46.07,2024-08-17
+T0842,TNSTC,Mumbai,Chennai,02:11,0,0,5,5,3,3,51,42.15,2024-08-17
+T0656,KPN Travels,Kolkata,Hyderabad,06:27,20,0,4,1,4,3,40,43.97,2024-08-19
+T0016,Parveen Travels,Hyderabad,Kolkata,12:34,90,0,2,3,2,3,20,55.54,2024-08-20
+T0030,VRL,Hyderabad,Chennai,21:14,90,0,2,3,5,4,34,42.41,2024-08-21
+T0241,KPN Travels,Pune,Hyderabad,20:47,10,0,4,3,2,4,42,96.68,2024-08-21
+T1082,KPN Travels,Mumbai,Delhi,12:58,15,1,2,3,3,3,36,72.98,2024-08-22
+T1121,KSRTC,Bangalore,Delhi,15:35,10,0,3,4,5,5,35,92.77,2024-08-22
+T0392,SRS Travels,Kolkata,Mumbai,01:23,5,0,2,4,3,5,10,93.11,2024-08-22
+T1094,KPN Travels,Hyderabad,Kolkata,17:28,10,1,1,1,5,2,24,97.97,2024-08-23
+T0729,KSRTC,Delhi,Kolkata,11:48,0,0,4,5,1,4,15,47.06,2024-08-23
+T0877,Orange Travels,Kolkata,Mumbai,04:38,90,0,1,1,1,5,13,72.94,2024-08-23
+T0837,Parveen Travels,Hyderabad,Bangalore,01:16,20,0,1,4,1,2,32,93.1,2024-08-23
+T0857,SRS Travels,Bangalore,Chennai,12:01,20,0,2,2,4,4,44,73.11,2024-08-24
+T0176,KPN Travels,Delhi,Mumbai,07:35,0,0,4,3,1,5,41,71.14,2024-08-24
+T1195,TNSTC,Bangalore,Hyderabad,08:35,0,1,1,2,4,4,31,50.48,2024-08-24
+T0314,VRL,Mumbai,Chennai,18:49,5,0,4,3,5,4,43,98.76,2024-08-25
+T0792,TNSTC,Bangalore,Chennai,01:14,45,0,2,1,2,1,34,97.09,2024-08-25
+T0433,VRL,Hyderabad,Bangalore,13:08,0,0,5,4,4,3,42,73.56,2024-08-25
+T0547,KPN Travels,Kolkata,Chennai,23:45,30,0,2,1,5,5,35,76.26,2024-08-26
+T0862,Orange Travels,Hyderabad,Kolkata,09:04,20,0,4,2,4,3,31,51.98,2024-08-28
+T0700,TNSTC,Delhi,Chennai,22:03,45,0,3,1,4,2,18,90.71,2024-08-28
+T0218,TNSTC,Chennai,Kolkata,15:31,90,1,2,5,3,1,27,41.19,2024-08-30
+T0249,VRL,Hyderabad,Pune,07:37,15,0,2,2,3,2,15,98.32,2024-08-30
+T0934,KPN Travels,Mumbai,Chennai,03:37,15,1,4,3,1,4,48,55.29,2024-08-30
+T1172,KPN Travels,Hyderabad,Chennai,02:30,5,1,3,5,1,3,33,77.55,2024-08-31
+T0235,Orange Travels,Pune,Bangalore,17:45,30,0,3,2,1,4,33,74.12,2024-08-31
+T1191,VRL,Chennai,Kolkata,16:42,10,1,1,1,5,1,20,45.86,2024-08-31
+T0815,VRL,Pune,Kolkata,14:56,0,0,1,5,4,3,35,43.62,2024-09-01
+T0430,SRS Travels,Chennai,Bangalore,06:53,10,0,4,1,2,2,55,75.16,2024-09-01
+T1006,KPN Travels,Hyderabad,Chennai,20:25,15,0,3,4,1,4,20,57.65,2024-09-02
+T0258,Parveen Travels,Chennai,Pune,04:43,0,0,2,3,3,4,55,84.53,2024-09-02
+T0315,KPN Travels,Chennai,Bangalore,06:39,90,0,3,1,2,3,36,86.82,2024-09-02
+T0365,TNSTC,Chennai,Kolkata,01:27,15,1,1,4,2,1,14,78.36,2024-09-03
+T1039,KPN Travels,Kolkata,Mumbai,15:36,30,1,5,3,3,1,57,57.57,2024-09-03
+T0577,KPN Travels,Pune,Mumbai,08:50,60,0,4,3,3,2,27,65.53,2024-09-05
+T0916,VRL,Hyderabad,Delhi,18:14,5,1,5,2,2,5,39,77.22,2024-09-05
+T0470,KSRTC,Delhi,Hyderabad,15:47,15,1,3,1,5,5,20,52.43,2024-09-05
+T1054,Orange Travels,Hyderabad,Delhi,15:10,10,0,5,1,3,4,50,57.4,2024-09-07
+T0833,Parveen Travels,Delhi,Mumbai,16:34,45,0,5,4,4,1,28,44.63,2024-09-07
+T0879,KPN Travels,Delhi,Pune,08:41,90,1,1,2,4,2,43,61.49,2024-09-09
+T0852,KSRTC,Kolkata,Delhi,18:55,45,0,4,4,5,5,17,72.69,2024-09-10
+T0835,TNSTC,Hyderabad,Mumbai,11:16,0,0,1,3,5,2,21,58.79,2024-09-11
+T1122,KPN Travels,Delhi,Chennai,00:19,0,0,4,2,5,2,60,89.11,2024-09-11
+T0941,Parveen Travels,Delhi,Mumbai,22:51,15,0,5,4,3,1,14,99.18,2024-09-11
+T0231,SRS Travels,Hyderabad,Delhi,04:14,0,0,4,1,3,1,44,65.92,2024-09-11
+T0396,TNSTC,Kolkata,Hyderabad,03:53,0,0,5,4,5,2,41,91.44,2024-09-12
+T1090,KSRTC,Delhi,Hyderabad,10:01,45,0,1,5,5,4,25,68.68,2024-09-12
+T0419,Orange Travels,Hyderabad,Delhi,08:54,15,0,3,1,1,1,22,47.62,2024-09-12
+T1098,KPN Travels,Pune,Delhi,20:27,15,1,2,4,2,5,19,75.19,2024-09-13
+T0047,KSRTC,Kolkata,Chennai,08:28,30,0,1,4,4,4,17,95.94,2024-09-13
+T0985,SRS Travels,Delhi,Bangalore,03:00,45,0,4,5,5,3,33,73.44,2024-09-13
+T0298,KPN Travels,Delhi,Pune,11:37,45,1,3,5,4,2,13,72.33,2024-09-13
+T1182,SRS Travels,Hyderabad,Bangalore,09:39,20,0,4,5,3,1,48,56.32,2024-09-14
+T1176,KPN Travels,Mumbai,Pune,22:37,20,0,4,2,2,1,28,64.16,2024-09-14
+T0377,KPN Travels,Pune,Bangalore,15:32,20,0,2,1,4,3,54,41.4,2024-09-15
+T0922,SRS Travels,Bangalore,Kolkata,04:39,20,0,3,1,2,2,12,87.15,2024-09-15
+T0789,KPN Travels,Delhi,Mumbai,23:26,30,0,1,2,4,4,56,65.44,2024-09-15
+T0904,KPN Travels,Pune,Hyderabad,20:21,5,1,2,2,5,1,23,54.17,2024-09-15
+T0460,Parveen Travels,Kolkata,Mumbai,19:41,45,1,4,2,4,2,22,99.55,2024-09-15
+T0415,TNSTC,Kolkata,Hyderabad,09:31,60,0,4,4,5,2,30,61.88,2024-09-15
+T0692,VRL,Pune,Delhi,06:52,10,0,3,2,5,4,38,52.07,2024-09-16
+T0025,Orange Travels,Bangalore,Mumbai,09:33,45,0,4,2,3,4,60,54.66,2024-09-17
+T1127,TNSTC,Bangalore,Chennai,04:46,5,0,3,4,1,3,47,70.54,2024-09-17
+T0981,KSRTC,Delhi,Bangalore,19:16,15,0,2,3,1,2,53,75.92,2024-09-17
+T0446,KPN Travels,Kolkata,Bangalore,06:49,10,0,4,5,3,3,17,43.05,2024-09-18
+T0710,KPN Travels,Kolkata,Bangalore,05:12,90,0,5,4,2,2,30,66.36,2024-09-18
+T1063,KSRTC,Pune,Delhi,20:27,60,0,3,2,5,2,34,92.58,2024-09-19
+T1032,KPN Travels,Hyderabad,Kolkata,09:29,60,0,1,4,1,5,21,72.74,2024-09-19
+T0711,SRS Travels,Kolkata,Mumbai,19:45,10,0,3,5,1,1,46,74.55,2024-09-19
+T0197,SRS Travels,Pune,Hyderabad,15:15,0,0,2,1,4,4,59,59.64,2024-09-19
+T0564,KSRTC,Hyderabad,Pune,21:36,5,0,5,5,4,1,21,93.91,2024-09-20
+T0285,KPN Travels,Kolkata,Pune,14:44,0,0,2,4,3,5,14,48.84,2024-09-20
+T0873,SRS Travels,Chennai,Mumbai,16:00,60,0,5,1,5,1,45,70.14,2024-09-21
+T0317,SRS Travels,Chennai,Delhi,10:57,0,0,4,5,2,1,18,77.87,2024-09-21
+T0974,Orange Travels,Mumbai,Hyderabad,10:46,60,0,1,5,4,1,55,88.78,2024-09-21
+T0864,TNSTC,Pune,Kolkata,13:54,20,0,1,1,4,4,10,40.63,2024-09-21
+T0059,VRL,Hyderabad,Bangalore,18:26,45,0,2,1,5,3,27,75.93,2024-09-21
+T0166,Orange Travels,Mumbai,Bangalore,13:57,0,0,1,1,4,4,32,98.73,2024-09-22
+T0482,SRS Travels,Pune,Kolkata,16:56,0,1,2,1,1,4,24,58.23,2024-09-22
+T0006,Orange Travels,Kolkata,Delhi,01:15,5,0,5,5,3,3,29,42.77,2024-09-22
+T0212,Parveen Travels,Pune,Kolkata,01:18,45,0,2,3,2,3,57,84.66,2024-09-22
+T1137,Parveen Travels,Delhi,Kolkata,15:58,10,0,5,2,1,1,54,56.59,2024-09-23
+T0670,SRS Travels,Kolkata,Mumbai,20:07,30,0,5,4,3,3,34,75.78,2024-09-23
+T0208,KSRTC,Hyderabad,Mumbai,06:54,45,0,3,2,3,3,60,47.06,2024-09-23
+T0924,Parveen Travels,Delhi,Pune,03:14,10,0,5,5,5,2,13,95.82,2024-09-25
+T1040,KSRTC,Chennai,Hyderabad,20:29,60,0,2,1,2,5,32,96.31,2024-09-25
+T0551,Orange Travels,Delhi,Pune,17:15,30,1,1,1,3,2,54,47.69,2024-09-25
+T1179,VRL,Delhi,Bangalore,20:23,10,0,5,5,5,5,29,94.89,2024-09-25
+T0848,SRS Travels,Kolkata,Chennai,01:29,45,0,4,2,2,1,15,42.44,2024-09-25
+T1034,VRL,Bangalore,Delhi,12:19,30,0,3,4,2,1,32,46.01,2024-09-26
+T0997,Parveen Travels,Bangalore,Chennai,20:49,45,0,2,3,1,4,44,84.2,2024-09-26
+T0838,VRL,Kolkata,Bangalore,16:18,15,0,3,3,2,4,31,86.65,2024-09-26
+T0705,TNSTC,Kolkata,Bangalore,07:00,5,0,1,2,1,3,16,46.25,2024-09-27
+T0177,Parveen Travels,Bangalore,Mumbai,06:54,15,0,1,3,5,5,14,73.25,2024-09-27
+T0451,Orange Travels,Hyderabad,Bangalore,18:34,0,0,1,5,1,4,31,95.84,2024-09-28
+T0094,SRS Travels,Mumbai,Hyderabad,18:49,10,0,4,4,4,1,56,66.29,2024-09-28
+T1187,SRS Travels,Pune,Delhi,21:23,0,0,3,3,3,1,52,56.6,2024-09-29
+T1031,Orange Travels,Delhi,Chennai,22:37,20,0,4,3,1,1,42,45.67,2024-09-29
+T0084,TNSTC,Hyderabad,Pune,07:48,5,0,5,2,2,1,43,59.82,2024-10-01
+T0520,KPN Travels,Chennai,Hyderabad,06:26,10,1,3,2,3,3,24,57.8,2024-10-01
+T0604,VRL,Hyderabad,Bangalore,21:51,45,0,5,5,3,1,47,89.57,2024-10-02
+T0308,Orange Travels,Chennai,Pune,13:40,10,0,2,1,2,2,16,89.47,2024-10-02
+T0358,Parveen Travels,Delhi,Pune,02:46,30,1,1,5,3,4,36,43.79,2024-10-02
+T0537,KSRTC,Pune,Chennai,14:42,0,0,5,1,1,1,19,53.8,2024-10-02
+T0282,KSRTC,Pune,Mumbai,22:39,90,1,4,4,5,1,54,53.3,2024-10-02
+T0263,KPN Travels,Hyderabad,Bangalore,17:16,15,1,4,5,2,1,35,43.33,2024-10-03
+T1065,KPN Travels,Hyderabad,Mumbai,19:03,90,0,3,4,5,1,43,40.69,2024-10-03
+T0816,SRS Travels,Delhi,Mumbai,18:20,15,0,2,5,1,2,56,70.05,2024-10-04
+T0487,KSRTC,Bangalore,Mumbai,17:39,10,0,4,3,2,4,11,53.62,2024-10-05
+T0995,KSRTC,Pune,Kolkata,23:19,5,1,3,4,1,4,47,78.38,2024-10-05
+T0684,TNSTC,Mumbai,Kolkata,17:17,15,0,3,5,5,4,16,53.28,2024-10-06
+T0375,TNSTC,Bangalore,Hyderabad,15:37,60,1,2,2,4,4,19,43.85,2024-10-06
+T1041,TNSTC,Delhi,Kolkata,17:23,10,0,5,2,3,3,45,50.41,2024-10-06
+T0488,VRL,Chennai,Kolkata,03:55,90,0,2,3,4,4,25,49.26,2024-10-07
+T1116,KSRTC,Kolkata,Hyderabad,05:40,0,0,4,3,5,1,18,68.46,2024-10-07
+T1076,Orange Travels,Kolkata,Pune,10:46,20,0,3,3,3,4,28,76.77,2024-10-07
+T1010,TNSTC,Mumbai,Bangalore,14:56,20,1,1,2,2,3,36,60.33,2024-10-08
+T0937,KPN Travels,Delhi,Mumbai,16:55,5,1,3,2,1,5,54,82.2,2024-10-08
+T0050,Parveen Travels,Mumbai,Kolkata,03:24,45,0,1,5,5,4,44,88.47,2024-10-08
+T0990,TNSTC,Delhi,Hyderabad,14:51,60,0,2,4,2,4,43,90.77,2024-10-09
+T0645,Orange Travels,Hyderabad,Mumbai,16:35,30,0,3,4,3,3,35,86.67,2024-10-09
+T0284,VRL,Hyderabad,Kolkata,13:18,45,0,4,2,2,1,44,66.44,2024-10-10
+T1144,TNSTC,Chennai,Hyderabad,12:22,10,0,3,2,2,4,27,63.41,2024-10-12
+T0818,SRS Travels,Hyderabad,Chennai,10:02,0,0,4,1,1,4,21,73.58,2024-10-12
+T1114,SRS Travels,Pune,Bangalore,15:56,0,0,4,1,1,2,46,68.48,2024-10-13
+T1185,KPN Travels,Hyderabad,Bangalore,17:43,0,0,5,3,4,1,25,70.02,2024-10-13
+T0065,TNSTC,Hyderabad,Delhi,17:00,0,1,3,2,4,3,22,62.89,2024-10-13
+T0866,Parveen Travels,Hyderabad,Chennai,08:56,0,0,5,4,5,4,17,52.59,2024-10-14
+T0526,Orange Travels,Kolkata,Delhi,20:25,5,0,4,5,3,1,49,60.42,2024-10-14
+T0385,Parveen Travels,Chennai,Delhi,09:45,60,0,1,4,4,1,48,85.12,2024-10-15
+T0796,KSRTC,Mumbai,Delhi,04:31,20,0,5,2,4,4,51,47.07,2024-10-15
+T0492,Orange Travels,Mumbai,Delhi,05:19,20,0,3,3,5,2,40,79.57,2024-10-15
+T0153,VRL,Bangalore,Mumbai,02:29,15,0,2,4,5,5,15,64.3,2024-10-16
+T0571,VRL,Bangalore,Delhi,12:53,0,0,2,1,2,1,54,85.06,2024-10-16
+T1057,Parveen Travels,Pune,Kolkata,17:16,0,0,5,2,1,3,14,80.53,2024-10-17
+T0742,KSRTC,Pune,Mumbai,08:37,30,1,2,4,4,5,50,61.32,2024-10-18
+T0137,Parveen Travels,Bangalore,Hyderabad,15:12,45,0,4,1,5,2,54,72.77,2024-10-18
+T0894,KSRTC,Mumbai,Delhi,08:49,0,0,4,5,1,4,59,46.81,2024-10-19
+T0464,Parveen Travels,Bangalore,Pune,09:16,0,0,3,1,3,2,56,56.9,2024-10-20
+T0669,Parveen Travels,Bangalore,Chennai,11:08,20,0,5,3,1,3,20,71.3,2024-10-20
+T0515,KSRTC,Chennai,Kolkata,06:51,30,0,4,2,1,1,30,97.48,2024-10-20
+T0989,VRL,Chennai,Pune,22:55,30,0,1,4,2,1,32,79.33,2024-10-20
+T0491,TNSTC,Mumbai,Chennai,11:42,90,1,3,3,1,4,20,65.11,2024-10-21
+T0290,VRL,Mumbai,Delhi,11:11,30,0,5,1,4,1,55,98.94,2024-10-21
+T0291,Parveen Travels,Mumbai,Hyderabad,07:32,10,0,4,2,1,2,37,96.55,2024-10-21
+T1026,Orange Travels,Mumbai,Kolkata,10:03,15,0,3,2,3,2,24,60.92,2024-10-21
+T0775,KSRTC,Pune,Delhi,04:54,0,0,2,2,5,1,12,55.11,2024-10-23
+T1130,Orange Travels,Bangalore,Kolkata,14:26,60,0,2,5,3,2,30,92.45,2024-10-23
+T0853,KPN Travels,Kolkata,Pune,12:36,60,0,5,2,2,4,43,76.54,2024-10-23
+T0299,VRL,Hyderabad,Delhi,01:31,45,1,1,1,5,1,59,84.73,2024-10-23
+T0613,Orange Travels,Chennai,Delhi,03:33,0,0,4,4,5,4,49,67.79,2024-10-23
+T0445,VRL,Hyderabad,Bangalore,00:35,45,0,2,2,1,1,19,67.11,2024-10-24
+T0325,Parveen Travels,Hyderabad,Mumbai,18:13,0,1,2,4,1,5,56,99.63,2024-10-25
+T0344,KPN Travels,Chennai,Pune,10:10,0,0,2,4,2,5,36,76.29,2024-10-25
+T0370,SRS Travels,Hyderabad,Delhi,08:21,45,0,5,1,1,1,17,75.9,2024-10-26
+T0286,TNSTC,Delhi,Pune,03:29,20,0,3,2,1,1,21,92.12,2024-10-27
+T0127,VRL,Kolkata,Pune,11:57,20,1,1,2,3,3,23,50.88,2024-10-28
+T0395,KSRTC,Hyderabad,Delhi,14:41,0,0,2,2,4,2,40,52.35,2024-10-29
+T0527,Orange Travels,Hyderabad,Kolkata,02:49,60,0,2,2,4,1,33,74.57,2024-10-30
+T0115,Parveen Travels,Mumbai,Kolkata,10:46,10,1,2,3,2,4,16,51.5,2024-10-30
+T1170,SRS Travels,Pune,Kolkata,01:02,0,1,2,5,1,5,35,90.73,2024-10-31
+T0097,VRL,Chennai,Mumbai,06:11,10,0,1,2,4,4,21,93.93,2024-11-01
+T0143,SRS Travels,Bangalore,Delhi,19:26,0,0,1,2,1,3,51,76.54,2024-11-01
+T0172,TNSTC,Hyderabad,Delhi,23:13,15,0,1,2,4,4,39,86.83,2024-11-02
+T0683,Parveen Travels,Kolkata,Pune,08:17,10,0,4,4,5,3,13,95.81,2024-11-03
+T0058,VRL,Mumbai,Hyderabad,17:12,0,1,2,3,3,2,57,59.53,2024-11-03
+T1020,Parveen Travels,Hyderabad,Delhi,18:32,90,1,3,3,5,3,19,71.98,2024-11-03
+T1149,SRS Travels,Pune,Mumbai,08:45,30,0,4,4,3,2,30,94.59,2024-11-04
+T0294,Parveen Travels,Bangalore,Hyderabad,03:00,30,1,4,2,3,1,22,92.73,2024-11-05
+T0477,TNSTC,Hyderabad,Delhi,01:04,0,0,2,3,2,4,15,82.98,2024-11-05
+T0332,KPN Travels,Delhi,Chennai,11:01,0,0,4,2,1,5,53,60.54,2024-11-05
+T0243,KSRTC,Chennai,Hyderabad,02:24,15,0,2,5,5,2,35,58.13,2024-11-05
+T0595,Parveen Travels,Mumbai,Hyderabad,06:37,90,1,4,1,4,1,41,56.57,2024-11-06
+T0778,TNSTC,Bangalore,Delhi,13:29,15,1,4,1,1,2,38,42.53,2024-11-06
+T0512,KPN Travels,Chennai,Hyderabad,19:56,10,0,2,4,4,3,54,69.57,2024-11-06
+T0136,KSRTC,Kolkata,Pune,00:34,45,0,3,5,3,3,50,72.93,2024-11-07
+T0804,KSRTC,Bangalore,Pune,13:32,5,0,1,3,2,5,31,43.25,2024-11-08
+T0121,TNSTC,Pune,Bangalore,08:12,20,0,2,2,4,3,39,81.19,2024-11-08
+T0919,KPN Travels,Kolkata,Bangalore,22:21,0,1,4,3,2,5,22,84.66,2024-11-09
+T0641,VRL,Kolkata,Delhi,21:07,15,0,5,5,2,2,58,82.39,2024-11-10
+T0245,VRL,Pune,Bangalore,05:46,60,0,5,4,2,1,49,62.13,2024-11-10
+T0685,SRS Travels,Delhi,Chennai,22:20,90,1,2,3,4,5,11,53.47,2024-11-11
+T0704,SRS Travels,Delhi,Mumbai,10:38,0,0,2,1,4,3,41,74.03,2024-11-11
+T1037,Orange Travels,Delhi,Bangalore,05:16,10,0,3,4,2,4,12,65.58,2024-11-11
+T0844,KPN Travels,Bangalore,Mumbai,22:05,45,1,4,1,2,2,45,51.88,2024-11-12
+T0782,KPN Travels,Mumbai,Pune,17:24,5,0,3,1,2,5,24,71.65,2024-11-12
+T0707,VRL,Mumbai,Pune,16:41,0,0,1,4,3,1,56,55.85,2024-11-13
+T0569,KSRTC,Chennai,Kolkata,14:27,60,0,1,4,3,1,55,85.4,2024-11-13
+T0607,Parveen Travels,Pune,Delhi,16:16,45,0,4,3,5,2,21,58.31,2024-11-13
+T0131,Parveen Travels,Chennai,Delhi,10:04,0,1,5,5,1,1,18,77.72,2024-11-13
+T0541,SRS Travels,Mumbai,Kolkata,18:21,15,0,2,3,2,3,59,77.04,2024-11-14
+T0244,SRS Travels,Hyderabad,Kolkata,05:12,15,0,3,2,2,5,39,58.82,2024-11-14
+T0748,KSRTC,Mumbai,Chennai,22:46,90,0,5,3,4,1,58,44.36,2024-11-15
+T0609,TNSTC,Chennai,Kolkata,21:52,10,0,5,2,4,3,35,51.05,2024-11-15
+T0856,VRL,Hyderabad,Pune,04:04,0,0,3,5,2,2,29,61.53,2024-11-16
+T1047,Orange Travels,Bangalore,Hyderabad,04:08,60,0,1,5,1,3,21,45.46,2024-11-16
+T1091,KPN Travels,Pune,Hyderabad,23:33,5,0,5,5,3,1,53,97.63,2024-11-16
+T0072,KPN Travels,Kolkata,Delhi,23:09,0,0,4,3,5,4,55,86.66,2024-11-16
+T1113,TNSTC,Chennai,Kolkata,08:50,15,0,4,5,5,4,16,44.01,2024-11-16
+T0918,SRS Travels,Bangalore,Mumbai,14:35,15,0,1,3,2,4,30,66.86,2024-11-17
+T0185,SRS Travels,Bangalore,Mumbai,22:46,60,0,2,5,2,3,45,84.24,2024-11-18
+T0320,KSRTC,Mumbai,Hyderabad,07:52,5,0,4,3,5,4,20,65.21,2024-11-19
+T0304,TNSTC,Delhi,Bangalore,04:37,0,0,1,3,4,3,24,46.46,2024-11-20
+T0535,SRS Travels,Pune,Mumbai,10:05,90,0,4,4,1,3,37,87.29,2024-11-21
+T1038,Parveen Travels,Pune,Bangalore,23:03,60,1,5,2,5,2,29,54.65,2024-11-22
+T0718,Orange Travels,Mumbai,Pune,09:07,15,0,5,2,5,4,35,86.42,2024-11-24
+T0270,Orange Travels,Pune,Chennai,13:16,20,0,2,1,1,5,18,62.01,2024-11-25
+T0346,Orange Travels,Chennai,Bangalore,00:06,10,1,1,3,5,3,40,80.68,2024-11-25
+T0467,Parveen Travels,Chennai,Bangalore,09:46,60,0,5,4,1,3,10,68.95,2024-11-25
+T1028,Orange Travels,Pune,Delhi,17:25,5,1,4,2,4,3,33,55.83,2024-11-26
+T0592,SRS Travels,Hyderabad,Pune,11:59,5,0,2,5,2,3,12,89.93,2024-11-27
+T0439,TNSTC,Pune,Mumbai,07:13,5,0,4,2,1,5,49,76.51,2024-11-27
+T0342,VRL,Kolkata,Bangalore,23:05,45,0,2,4,1,5,27,75.1,2024-11-27
+T0333,Parveen Travels,Mumbai,Delhi,02:05,20,1,1,4,1,2,60,91.64,2024-11-28
+T0354,VRL,Pune,Hyderabad,18:47,20,0,3,2,1,1,57,88.93,2024-11-28
+T0719,TNSTC,Bangalore,Mumbai,09:01,10,0,1,3,4,3,11,78.24,2024-11-28
+T1101,VRL,Delhi,Mumbai,13:22,30,1,1,2,3,5,44,70.59,2024-11-30
+T0221,VRL,Chennai,Delhi,23:08,45,0,4,4,1,1,58,81.6,2024-11-30
+T0876,Orange Travels,Kolkata,Bangalore,15:03,10,0,2,1,5,2,54,65.14,2024-11-30
+T0067,VRL,Chennai,Pune,09:34,60,1,4,3,5,4,32,88.68,2024-12-01
+T0976,TNSTC,Mumbai,Kolkata,21:21,0,0,3,4,4,5,27,90.6,2024-12-01
+T0529,Parveen Travels,Mumbai,Pune,14:09,60,0,5,4,2,2,16,40.66,2024-12-02
+T0198,TNSTC,Chennai,Delhi,10:00,20,0,3,5,4,2,36,96.26,2024-12-02
+T0522,Parveen Travels,Hyderabad,Pune,23:33,45,0,3,3,2,5,30,89.58,2024-12-03
+T0261,KSRTC,Kolkata,Delhi,20:49,10,0,5,2,1,2,60,41.94,2024-12-03
+T1124,SRS Travels,Mumbai,Bangalore,21:30,60,1,4,1,3,4,29,97.12,2024-12-03
+T0423,Orange Travels,Hyderabad,Kolkata,22:05,10,0,3,4,1,4,31,43.33,2024-12-04
+T0147,Parveen Travels,Pune,Delhi,18:11,0,1,2,2,4,2,27,96.97,2024-12-04
+T0756,KSRTC,Delhi,Mumbai,22:26,15,1,2,5,2,5,25,89.74,2024-12-05
+T0133,KPN Travels,Delhi,Mumbai,08:26,45,0,1,3,1,5,20,61.16,2024-12-05
+T0004,VRL,Pune,Delhi,19:33,5,0,1,4,5,4,33,72.7,2024-12-06
+T0007,KPN Travels,Delhi,Pune,04:14,0,0,5,5,2,2,48,56.36,2024-12-06
+T0869,VRL,Bangalore,Hyderabad,15:21,90,0,1,5,5,2,56,49.82,2024-12-06
+T1103,Parveen Travels,Kolkata,Hyderabad,07:45,20,0,5,4,4,5,23,51.13,2024-12-06
+T0717,KSRTC,Bangalore,Delhi,08:56,20,0,3,1,1,5,18,82.52,2024-12-06
+T0159,SRS Travels,Chennai,Kolkata,00:52,10,0,1,5,2,3,52,64.13,2024-12-07
+T0250,Orange Travels,Pune,Bangalore,01:02,60,0,3,5,5,1,49,96.12,2024-12-09
+T0348,VRL,Delhi,Mumbai,06:58,0,0,2,4,3,5,57,76.8,2024-12-10
+T0227,KPN Travels,Bangalore,Kolkata,22:02,0,0,4,2,4,1,10,72.3,2024-12-10
+T1080,KPN Travels,Pune,Kolkata,02:28,30,0,3,1,4,2,44,41.58,2024-12-11
+T0118,Orange Travels,Chennai,Mumbai,00:59,5,0,3,1,3,2,22,41.36,2024-12-11
+T0271,VRL,Bangalore,Delhi,21:02,0,1,3,1,1,2,27,56.9,2024-12-11
+T0549,Parveen Travels,Mumbai,Bangalore,18:56,20,0,4,5,1,2,30,82.21,2024-12-12
+T0401,TNSTC,Delhi,Kolkata,10:40,0,0,2,4,1,4,49,52.59,2024-12-12
+T0787,VRL,Hyderabad,Chennai,22:55,0,0,3,3,3,2,36,76.33,2024-12-12
+T0469,KSRTC,Kolkata,Hyderabad,17:52,45,0,2,5,2,1,27,73.35,2024-12-12
+T0861,TNSTC,Hyderabad,Kolkata,12:05,0,0,2,4,3,1,35,86.06,2024-12-12
+T1193,KPN Travels,Kolkata,Chennai,22:49,45,0,1,3,4,2,60,71.05,2024-12-12
+T0798,TNSTC,Chennai,Kolkata,17:07,90,0,2,1,2,5,51,54.07,2024-12-13
+T0567,SRS Travels,Bangalore,Kolkata,16:13,60,1,2,1,4,4,30,62.84,2024-12-13
+T0909,TNSTC,Mumbai,Bangalore,12:34,10,0,2,1,3,4,40,86.98,2024-12-14
+T0540,Parveen Travels,Mumbai,Delhi,16:04,45,0,5,3,5,5,41,93.73,2024-12-14
+T1175,Parveen Travels,Kolkata,Pune,11:57,5,0,5,1,2,2,40,64.25,2024-12-14
+T0070,Parveen Travels,Bangalore,Mumbai,22:16,30,0,4,4,2,1,41,73.47,2024-12-15
+T0204,Orange Travels,Hyderabad,Bangalore,11:34,15,1,4,5,4,5,53,80.56,2024-12-15
+T0580,Parveen Travels,Pune,Mumbai,01:54,60,0,3,3,2,2,27,82.12,2024-12-16
+T0676,SRS Travels,Bangalore,Chennai,11:50,0,1,5,4,2,4,45,53.36,2024-12-16
+T0750,KPN Travels,Bangalore,Kolkata,09:49,15,0,1,5,4,4,49,91.03,2024-12-17
+T0589,KPN Travels,Mumbai,Chennai,07:42,0,0,3,3,5,2,49,84.26,2024-12-17
+T1134,TNSTC,Pune,Bangalore,11:12,10,1,3,2,1,3,34,95.34,2024-12-17
+T1173,KSRTC,Bangalore,Pune,12:32,0,1,1,1,4,1,39,87.15,2024-12-17
+T0012,TNSTC,Pune,Bangalore,16:26,10,0,2,1,3,3,15,42.14,2024-12-17
+T0586,KSRTC,Bangalore,Hyderabad,20:48,20,0,4,2,5,2,60,94.1,2024-12-17
+T0510,KPN Travels,Chennai,Kolkata,03:45,30,0,3,3,2,1,15,64.82,2024-12-20
+T0871,Orange Travels,Mumbai,Kolkata,19:13,5,0,3,1,3,5,23,41.5,2024-12-20
+T1141,KPN Travels,Mumbai,Chennai,03:16,20,1,3,3,4,1,59,73.35,2024-12-20
+T0701,KPN Travels,Mumbai,Hyderabad,02:31,15,0,5,3,4,5,38,58.65,2024-12-20
+T0100,VRL,Chennai,Hyderabad,16:29,90,0,1,4,4,3,52,79.73,2024-12-20
+T0474,KPN Travels,Delhi,Mumbai,00:27,0,0,2,1,4,1,36,49.33,2024-12-20
+T0508,SRS Travels,Hyderabad,Chennai,20:52,45,0,1,5,1,5,14,97.17,2024-12-21
+T0534,Parveen Travels,Hyderabad,Bangalore,12:03,45,1,2,4,1,5,54,81.92,2024-12-21
+T0125,KSRTC,Pune,Mumbai,11:46,90,0,3,2,5,5,10,53.47,2024-12-21
+T0081,KPN Travels,Bangalore,Kolkata,01:56,45,0,1,5,5,2,33,97.57,2024-12-22
+T1035,SRS Travels,Chennai,Pune,09:05,20,0,2,5,2,4,35,91.67,2024-12-22
+T1072,Orange Travels,Chennai,Bangalore,22:49,45,0,5,2,5,5,56,85.45,2024-12-23
+T0903,KPN Travels,Mumbai,Bangalore,15:17,20,1,4,4,4,2,53,79.16,2024-12-23
+T0202,TNSTC,Delhi,Bangalore,01:42,0,1,5,5,1,1,50,97.61,2024-12-24
+T1062,Orange Travels,Chennai,Kolkata,19:14,20,0,3,2,3,1,49,57.04,2024-12-24
+T0959,VRL,Pune,Kolkata,08:48,0,0,1,1,2,4,60,70.38,2024-12-25
+T0951,KPN Travels,Pune,Bangalore,00:05,0,0,3,2,2,1,54,61.56,2024-12-25
+T0652,KSRTC,Kolkata,Mumbai,04:01,45,0,5,5,5,1,42,94.41,2024-12-25
+T0145,SRS Travels,Mumbai,Pune,05:54,0,0,2,1,2,2,59,57.95,2024-12-27
+T1070,Parveen Travels,Kolkata,Mumbai,13:03,5,0,3,2,1,5,38,59.08,2024-12-27
+T0039,KPN Travels,Mumbai,Hyderabad,09:14,30,0,1,4,2,4,28,52.5,2024-12-28
+T0823,SRS Travels,Pune,Delhi,14:11,90,0,2,3,3,3,58,67.96,2024-12-29
+T0843,SRS Travels,Chennai,Hyderabad,14:41,10,0,2,5,4,4,17,89.38,2024-12-31
+T0727,KPN Travels,Hyderabad,Mumbai,02:58,30,0,2,2,5,5,55,89.51,2024-12-31
+T0322,Parveen Travels,Kolkata,Delhi,05:22,5,0,5,3,1,5,42,67.84,2024-12-31
+T0968,Parveen Travels,Mumbai,Kolkata,10:35,60,0,3,4,2,1,56,43.17,2024-12-31
+T1159,TNSTC,Bangalore,Pune,16:35,5,0,1,1,2,3,13,60.84,2025-01-01
+T0422,SRS Travels,Hyderabad,Mumbai,18:34,10,0,4,2,3,3,23,89.79,2025-01-01
+T0695,Orange Travels,Pune,Chennai,05:47,0,0,1,4,5,2,16,95.59,2025-01-02
+T0606,VRL,Mumbai,Hyderabad,20:36,20,0,3,3,4,1,25,81.87,2025-01-02
+T0642,Orange Travels,Hyderabad,Chennai,17:48,15,0,4,4,4,3,12,96.62,2025-01-02
+T0948,TNSTC,Pune,Kolkata,15:52,20,0,2,1,4,3,45,40.78,2025-01-02
+T0766,KPN Travels,Pune,Kolkata,19:16,30,1,1,4,4,3,57,99.96,2025-01-03
+T0773,TNSTC,Chennai,Mumbai,22:38,0,1,2,5,5,4,49,77.59,2025-01-03
+T0119,KSRTC,Pune,Hyderabad,10:05,5,1,5,3,3,2,10,93.82,2025-01-03
+T0321,KPN Travels,Chennai,Delhi,11:45,45,1,4,3,2,1,25,52.9,2025-01-04
+T0126,Orange Travels,Hyderabad,Delhi,09:52,0,1,1,1,1,1,48,59.74,2025-01-04
+T0045,VRL,Hyderabad,Delhi,21:56,10,0,2,4,1,2,15,50.85,2025-01-04
+T0386,Parveen Travels,Delhi,Kolkata,05:18,10,0,3,4,3,5,25,56.21,2025-01-05
+T0939,VRL,Delhi,Hyderabad,14:52,5,0,4,2,5,4,11,74.15,2025-01-05
+T1093,TNSTC,Pune,Bangalore,03:30,0,0,4,2,5,3,29,90.92,2025-01-05
+T1143,Parveen Travels,Kolkata,Hyderabad,10:18,30,0,2,5,3,4,46,78.44,2025-01-07
+T0447,KSRTC,Pune,Hyderabad,21:13,90,0,1,4,5,1,53,85.84,2025-01-08
+T0943,Orange Travels,Bangalore,Mumbai,18:56,60,0,4,4,2,3,37,94.69,2025-01-09
+T0584,Orange Travels,Chennai,Kolkata,09:30,90,0,2,4,2,4,59,93.76,2025-01-09
+T0455,VRL,Hyderabad,Kolkata,17:49,0,0,5,4,1,1,51,60.0,2025-01-09
+T0646,SRS Travels,Delhi,Bangalore,15:34,45,0,1,4,1,4,37,66.99,2025-01-11
+T1160,Orange Travels,Delhi,Kolkata,10:18,15,0,2,1,2,2,25,72.12,2025-01-11
+T1014,KPN Travels,Chennai,Bangalore,11:57,0,0,2,3,2,3,59,93.17,2025-01-13
+T1135,VRL,Chennai,Hyderabad,23:01,5,0,3,3,2,4,46,41.66,2025-01-13
+T1174,VRL,Kolkata,Mumbai,07:02,45,0,4,2,3,3,26,88.72,2025-01-13
+T0581,KPN Travels,Bangalore,Kolkata,07:09,5,0,5,1,1,3,17,64.93,2025-01-13
+T0797,SRS Travels,Pune,Bangalore,05:46,0,1,1,4,1,3,31,52.9,2025-01-13
+T1096,KPN Travels,Hyderabad,Bangalore,18:30,15,1,1,2,4,4,21,83.2,2025-01-14
+T0605,KPN Travels,Mumbai,Hyderabad,01:03,30,1,3,5,1,5,42,66.0,2025-01-14
+T0327,KSRTC,Mumbai,Hyderabad,14:32,30,1,4,5,5,2,39,87.26,2025-01-14
+T1148,Parveen Travels,Kolkata,Chennai,16:14,45,0,3,5,2,2,26,40.68,2025-01-14
+T0693,Parveen Travels,Pune,Chennai,02:01,90,0,5,1,3,3,43,65.26,2025-01-15
+T0545,Orange Travels,Chennai,Pune,05:23,10,0,4,5,2,2,13,82.08,2025-01-15
+T0379,VRL,Kolkata,Hyderabad,01:36,45,0,4,5,3,4,51,71.37,2025-01-16
+T0232,KPN Travels,Bangalore,Pune,00:00,5,0,5,2,4,1,13,85.76,2025-01-16
+T0870,VRL,Bangalore,Chennai,06:36,30,0,3,5,1,1,39,82.99,2025-01-16
+T1131,VRL,Bangalore,Pune,14:30,5,0,5,1,4,4,34,59.96,2025-01-17
+T0225,KSRTC,Hyderabad,Kolkata,11:41,15,0,4,5,5,4,47,68.76,2025-01-19
+T0910,Orange Travels,Delhi,Bangalore,20:00,0,1,2,1,3,4,38,43.21,2025-01-19
+T0167,Parveen Travels,Pune,Delhi,22:59,10,0,4,4,2,3,31,82.02,2025-01-19
+T0822,SRS Travels,Pune,Hyderabad,14:25,0,0,4,2,5,3,21,55.21,2025-01-20
+T0731,TNSTC,Pune,Hyderabad,12:41,0,1,4,2,5,3,22,61.54,2025-01-21
+T0019,VRL,Hyderabad,Bangalore,22:21,45,0,4,2,3,5,58,69.17,2025-01-22
+T0970,Parveen Travels,Kolkata,Mumbai,04:13,90,1,1,2,3,5,13,60.55,2025-01-22
+T1199,SRS Travels,Bangalore,Hyderabad,15:01,60,0,2,2,3,2,45,80.57,2025-01-22
+T0042,Parveen Travels,Hyderabad,Pune,18:27,10,0,5,2,3,4,13,45.48,2025-01-23
+T0655,SRS Travels,Delhi,Chennai,18:23,45,0,5,2,4,4,43,61.86,2025-01-25
+T0895,Orange Travels,Mumbai,Hyderabad,22:06,30,0,2,2,1,1,55,42.16,2025-01-26
+T0820,TNSTC,Pune,Delhi,21:06,45,0,4,4,2,2,17,86.49,2025-01-26
+T1079,VRL,Mumbai,Pune,19:31,15,0,5,5,5,3,19,77.85,2025-01-26
+T0721,Parveen Travels,Hyderabad,Delhi,03:18,60,0,1,3,3,4,20,42.35,2025-01-27
+T0457,TNSTC,Kolkata,Delhi,23:16,10,1,2,1,1,2,47,64.45,2025-01-28
+T0454,KPN Travels,Bangalore,Delhi,15:55,20,0,3,2,1,4,58,54.57,2025-01-28
+T1012,KPN Travels,Hyderabad,Kolkata,15:30,5,1,2,3,2,5,10,72.78,2025-01-28
+T0573,TNSTC,Mumbai,Delhi,16:10,0,0,5,3,1,3,17,50.08,2025-01-28
+T0826,Orange Travels,Kolkata,Pune,11:53,0,0,4,3,3,5,26,62.87,2025-01-29
+T0964,KSRTC,Mumbai,Kolkata,23:23,45,0,5,3,2,3,10,58.79,2025-01-29
+T0647,KPN Travels,Hyderabad,Delhi,16:04,10,0,2,1,5,5,59,56.38,2025-01-29
+T0554,Parveen Travels,Pune,Mumbai,23:06,30,0,2,4,1,1,45,84.62,2025-01-29
+T0168,VRL,Kolkata,Hyderabad,16:03,30,1,3,5,1,1,54,70.39,2025-01-29
+T0179,Orange Travels,Kolkata,Pune,18:36,30,0,5,4,2,1,52,52.37,2025-02-01
+T0706,VRL,Delhi,Pune,00:06,60,0,3,4,1,2,18,97.27,2025-02-01
+T0173,TNSTC,Mumbai,Delhi,01:09,5,0,3,4,3,2,21,66.43,2025-02-01
+T0668,KSRTC,Kolkata,Chennai,02:47,0,1,5,1,4,4,45,99.7,2025-02-01
+T0503,SRS Travels,Mumbai,Delhi,01:07,30,0,3,4,1,4,31,65.13,2025-02-01
+T0525,TNSTC,Kolkata,Chennai,14:04,90,0,5,4,5,1,52,68.52,2025-02-01
+T0381,SRS Travels,Chennai,Kolkata,16:16,20,0,5,1,1,5,25,96.78,2025-02-01
+T0362,VRL,Bangalore,Delhi,05:09,10,0,5,5,3,2,26,51.75,2025-02-02
+T1110,VRL,Mumbai,Bangalore,13:04,90,0,1,2,1,4,42,52.01,2025-02-02
+T0079,VRL,Mumbai,Bangalore,04:31,60,0,3,2,3,5,59,46.87,2025-02-02
+T0992,Parveen Travels,Kolkata,Chennai,02:05,90,0,2,3,2,2,21,64.76,2025-02-03
+T0965,KPN Travels,Bangalore,Kolkata,12:35,45,0,2,2,1,4,48,51.65,2025-02-03
+T1095,KPN Travels,Bangalore,Chennai,22:28,0,0,5,2,1,5,47,45.11,2025-02-04
+T1060,TNSTC,Bangalore,Hyderabad,16:35,30,0,4,2,3,3,30,87.86,2025-02-04
+T0598,Parveen Travels,Hyderabad,Pune,14:59,60,0,4,5,5,5,43,87.94,2025-02-06
+T0771,VRL,Bangalore,Delhi,21:03,10,0,4,5,3,3,34,71.47,2025-02-06
+T0397,SRS Travels,Chennai,Mumbai,21:06,10,1,2,1,5,1,17,76.14,2025-02-07
+T0476,SRS Travels,Hyderabad,Kolkata,08:04,10,0,5,4,2,1,20,50.12,2025-02-09
+T0568,Parveen Travels,Pune,Bangalore,00:28,10,0,4,1,4,5,39,56.91,2025-02-09
+T0913,TNSTC,Bangalore,Delhi,14:21,60,0,4,5,1,5,51,84.01,2025-02-10
+T0847,KPN Travels,Delhi,Hyderabad,05:16,90,1,3,2,5,3,57,55.35,2025-02-10
+T0316,Orange Travels,Pune,Bangalore,03:28,5,0,1,1,2,5,18,45.51,2025-02-10
+T0361,TNSTC,Delhi,Pune,11:23,15,0,4,1,5,2,37,42.03,2025-02-10
+T0715,Parveen Travels,Mumbai,Pune,04:45,20,0,3,2,5,4,24,57.69,2025-02-11
+T0122,Orange Travels,Mumbai,Delhi,14:35,30,1,3,5,4,3,16,46.01,2025-02-12
+T0657,KSRTC,Chennai,Mumbai,18:34,5,1,1,2,5,2,16,58.56,2025-02-12
+T0754,SRS Travels,Delhi,Chennai,23:12,15,0,4,5,3,1,41,40.84,2025-02-13
+T0411,KPN Travels,Bangalore,Hyderabad,07:51,0,1,1,3,2,4,35,81.79,2025-02-14
+T0675,TNSTC,Hyderabad,Chennai,17:27,20,0,5,4,2,3,34,81.9,2025-02-14
+T0734,VRL,Mumbai,Kolkata,02:51,20,0,2,2,4,4,59,74.36,2025-02-14
+T0743,KSRTC,Chennai,Mumbai,09:33,10,0,5,2,4,4,28,90.56,2025-02-15
+T0015,SRS Travels,Pune,Delhi,01:12,45,0,5,3,4,1,42,83.88,2025-02-16
+T0917,KPN Travels,Kolkata,Mumbai,07:01,0,1,3,1,2,2,20,82.17,2025-02-16
+T0140,VRL,Bangalore,Mumbai,11:22,90,0,5,5,5,5,12,76.37,2025-02-18
+T0489,Parveen Travels,Chennai,Mumbai,20:41,90,1,1,1,2,3,17,57.29,2025-02-18
+T0911,VRL,Hyderabad,Delhi,08:07,45,0,1,2,4,1,27,41.12,2025-02-18
+T0699,VRL,Pune,Kolkata,09:48,0,0,1,1,3,5,24,99.4,2025-02-19
+T0259,Parveen Travels,Chennai,Mumbai,20:39,0,1,4,3,5,2,15,53.7,2025-02-19
+T0440,Orange Travels,Bangalore,Chennai,18:10,5,0,2,1,3,2,52,67.01,2025-02-20
+T0027,SRS Travels,Delhi,Chennai,01:51,45,0,5,2,1,3,13,65.01,2025-02-20
+T0295,Parveen Travels,Pune,Delhi,07:50,5,1,5,2,1,4,44,63.05,2025-02-22
+T1043,Parveen Travels,Mumbai,Pune,08:12,15,0,5,1,4,3,39,55.2,2025-02-22
+T0703,Orange Travels,Delhi,Bangalore,17:35,30,0,3,3,2,4,17,51.9,2025-02-23
+T0689,KPN Travels,Mumbai,Hyderabad,12:39,30,1,1,5,3,1,17,80.59,2025-02-23
+T1086,SRS Travels,Mumbai,Chennai,05:31,5,0,5,1,3,3,18,41.09,2025-02-23
+T0987,SRS Travels,Bangalore,Hyderabad,00:40,0,0,1,1,5,1,41,64.61,2025-02-24
+T0809,KPN Travels,Chennai,Hyderabad,09:10,90,0,3,4,2,4,12,56.41,2025-02-24
+T0046,VRL,Pune,Kolkata,04:34,20,0,1,3,3,4,40,72.8,2025-02-24
+T0338,Orange Travels,Bangalore,Chennai,17:18,15,0,5,2,1,4,38,91.26,2025-02-26
+T1029,Orange Travels,Chennai,Mumbai,11:50,5,0,1,4,5,3,33,87.2,2025-02-26
+T0927,TNSTC,Hyderabad,Bangalore,05:47,10,0,3,4,5,2,29,75.7,2025-02-26
+T0807,SRS Travels,Mumbai,Chennai,12:27,10,0,3,2,5,5,28,84.25,2025-02-26
+T1059,VRL,Bangalore,Hyderabad,00:47,60,0,5,1,4,4,57,60.22,2025-02-28
+T0044,Orange Travels,Chennai,Bangalore,13:08,0,0,3,3,2,1,57,79.65,2025-02-28
+T0480,Parveen Travels,Hyderabad,Delhi,16:22,10,0,3,2,5,3,12,97.82,2025-02-28
+T0043,SRS Travels,Hyderabad,Delhi,20:22,45,0,4,5,4,3,35,55.04,2025-02-28
+T0808,SRS Travels,Bangalore,Mumbai,17:32,5,0,3,3,4,4,43,77.03,2025-03-01
+T0388,KPN Travels,Pune,Mumbai,15:55,10,0,3,2,5,5,51,51.84,2025-03-01
+T0635,TNSTC,Delhi,Kolkata,02:08,5,1,3,2,5,2,56,89.23,2025-03-01
+T0055,Orange Travels,Kolkata,Chennai,02:22,0,0,4,3,3,1,56,72.09,2025-03-01
+T0049,Parveen Travels,Kolkata,Pune,06:39,15,0,2,4,2,5,58,78.2,2025-03-03
+T0412,SRS Travels,Delhi,Kolkata,19:59,20,0,5,4,1,4,24,52.3,2025-03-03
+T0626,SRS Travels,Chennai,Kolkata,20:04,5,1,4,4,5,5,52,97.55,2025-03-04
+T0403,VRL,Pune,Delhi,07:49,0,1,4,5,5,4,21,96.88,2025-03-04
+T1194,KSRTC,Delhi,Chennai,22:45,15,0,5,2,1,3,41,96.88,2025-03-05
+T0627,KPN Travels,Hyderabad,Mumbai,01:39,10,0,5,4,5,1,41,57.74,2025-03-05
+T0169,KPN Travels,Mumbai,Chennai,03:34,60,0,4,1,4,1,27,74.51,2025-03-05
+T0977,VRL,Chennai,Bangalore,22:23,45,0,4,1,4,5,10,55.62,2025-03-06
+T0175,Orange Travels,Hyderabad,Bangalore,10:16,10,0,2,3,3,4,10,88.47,2025-03-06
+T0875,KSRTC,Mumbai,Kolkata,11:25,10,0,2,2,2,2,57,60.28,2025-03-07
+T0022,KPN Travels,Kolkata,Bangalore,02:05,0,0,4,2,2,1,19,63.78,2025-03-07
+T0188,VRL,Mumbai,Delhi,08:17,0,0,4,5,2,1,32,81.55,2025-03-08
+T0324,KSRTC,Chennai,Pune,14:23,90,0,2,4,2,5,48,87.66,2025-03-08
+T0278,TNSTC,Chennai,Delhi,07:47,30,0,1,2,1,2,20,75.52,2025-03-08
+T0275,KSRTC,Pune,Chennai,02:29,0,0,3,3,5,5,14,99.75,2025-03-08
+T1151,KPN Travels,Hyderabad,Kolkata,06:25,15,0,1,4,2,4,60,50.72,2025-03-08
+T0364,VRL,Chennai,Hyderabad,07:11,0,0,2,5,4,1,28,63.28,2025-03-08
+T1016,SRS Travels,Delhi,Pune,05:03,30,1,1,5,2,4,24,78.1,2025-03-10
+T1112,VRL,Bangalore,Pune,06:38,10,1,2,3,5,1,50,90.39,2025-03-10
+T0825,VRL,Hyderabad,Chennai,07:39,0,0,4,4,4,2,53,50.37,2025-03-10
+T1003,SRS Travels,Chennai,Kolkata,06:01,15,0,5,3,5,2,58,97.42,2025-03-11
+T0112,TNSTC,Pune,Delhi,14:21,5,0,1,3,3,1,36,56.31,2025-03-11
+T0603,VRL,Delhi,Bangalore,19:24,30,1,3,2,5,2,49,90.91,2025-03-11
+T0874,TNSTC,Hyderabad,Delhi,04:46,30,0,5,1,2,1,32,90.67,2025-03-11
+T0533,VRL,Delhi,Kolkata,08:03,20,0,3,2,5,2,40,60.3,2025-03-11
+T0886,SRS Travels,Pune,Delhi,16:06,0,1,3,4,2,2,31,79.51,2025-03-11
+T1061,VRL,Delhi,Mumbai,02:47,10,0,1,3,2,5,57,82.7,2025-03-13
+T0957,Orange Travels,Hyderabad,Mumbai,01:47,30,0,4,1,5,5,49,50.9,2025-03-13
+T0117,TNSTC,Delhi,Mumbai,22:45,30,0,5,5,3,1,45,93.7,2025-03-13
+T1167,TNSTC,Chennai,Bangalore,11:56,10,0,4,4,3,5,36,67.61,2025-03-13
+T1100,KPN Travels,Chennai,Delhi,08:39,0,1,1,3,5,4,46,96.9,2025-03-14
+T0481,Parveen Travels,Bangalore,Pune,10:56,45,1,4,1,1,3,47,48.05,2025-03-14
+T1155,KSRTC,Kolkata,Bangalore,11:43,45,0,2,1,2,5,20,58.05,2025-03-15
+T0834,KSRTC,Bangalore,Pune,07:34,15,0,4,1,2,2,12,88.18,2025-03-15
+T0154,SRS Travels,Chennai,Kolkata,00:54,30,0,5,2,5,1,14,81.97,2025-03-15
+T1156,VRL,Mumbai,Bangalore,15:31,15,0,4,5,2,1,49,65.64,2025-03-16
+T0663,TNSTC,Hyderabad,Kolkata,22:51,60,0,3,1,2,5,50,79.42,2025-03-16
+T0064,KPN Travels,Bangalore,Kolkata,22:30,10,0,4,2,1,3,57,43.32,2025-03-16
+T0190,TNSTC,Delhi,Pune,20:49,60,1,1,2,5,5,43,75.32,2025-03-16
+T0587,VRL,Hyderabad,Delhi,03:12,0,0,2,5,1,1,25,60.02,2025-03-16
+T0416,KSRTC,Chennai,Kolkata,07:51,10,0,5,1,5,3,20,58.52,2025-03-16
+T0507,KSRTC,Bangalore,Chennai,17:58,30,0,1,1,4,5,16,84.86,2025-03-17
+T1074,VRL,Mumbai,Bangalore,02:29,60,0,2,3,4,3,27,53.98,2025-03-17
+T0891,KPN Travels,Mumbai,Delhi,19:44,0,0,1,1,2,5,46,98.9,2025-03-19
+T0572,Parveen Travels,Pune,Delhi,06:22,10,0,4,4,1,3,23,45.34,2025-03-19
+T0845,TNSTC,Hyderabad,Delhi,15:20,30,0,3,3,3,4,56,73.99,2025-03-20
+T1077,Orange Travels,Bangalore,Hyderabad,01:15,15,1,5,3,2,2,18,48.09,2025-03-20
+T1045,Orange Travels,Pune,Bangalore,11:29,10,0,5,1,1,2,48,77.26,2025-03-21
+T0622,TNSTC,Bangalore,Hyderabad,20:18,5,0,1,1,5,3,16,56.11,2025-03-21
+T0998,VRL,Mumbai,Bangalore,10:45,0,0,5,1,5,2,57,47.0,2025-03-21
+T0347,VRL,Delhi,Hyderabad,17:28,0,0,3,3,1,1,26,93.24,2025-03-22
+T0893,VRL,Bangalore,Chennai,23:36,15,0,4,2,4,2,13,71.44,2025-03-23
+T1042,SRS Travels,Bangalore,Kolkata,15:23,45,0,3,5,4,3,33,86.63,2025-03-23
+T0158,Orange Travels,Mumbai,Bangalore,21:41,5,0,3,1,3,4,29,41.43,2025-03-24
+T0138,TNSTC,Chennai,Mumbai,12:12,0,0,2,2,4,2,13,46.14,2025-03-24
+T0496,TNSTC,Delhi,Bangalore,09:45,5,1,4,1,2,2,14,77.02,2025-03-24
+T0132,VRL,Hyderabad,Mumbai,19:15,20,0,3,4,4,2,58,41.6,2025-03-24
+T0017,Orange Travels,Mumbai,Delhi,12:00,45,1,5,3,2,2,35,51.51,2025-03-25
+T0901,KPN Travels,Delhi,Mumbai,14:57,5,0,5,5,5,5,10,56.98,2025-03-25
+T1145,Orange Travels,Kolkata,Mumbai,04:47,60,0,1,5,4,2,29,67.08,2025-03-25
+T0716,Orange Travels,Delhi,Mumbai,20:18,30,0,4,4,3,2,27,70.37,2025-03-25
+T0436,SRS Travels,Kolkata,Chennai,18:10,45,1,4,5,4,1,23,66.1,2025-03-26
+T0418,KSRTC,Mumbai,Kolkata,12:36,5,1,5,4,5,4,14,97.41,2025-03-26
+T0453,TNSTC,Chennai,Kolkata,05:53,15,0,3,2,3,4,42,81.99,2025-03-27
+T0413,Orange Travels,Chennai,Delhi,01:04,15,0,4,1,2,3,37,50.89,2025-03-27
+T0461,Parveen Travels,Hyderabad,Kolkata,18:01,0,0,4,1,5,1,20,99.91,2025-03-28
+T0785,SRS Travels,Bangalore,Kolkata,13:32,60,0,2,3,5,4,26,62.44,2025-03-28
+T0751,Parveen Travels,Kolkata,Hyderabad,11:13,5,0,4,1,2,2,31,99.93,2025-03-28
+T1033,TNSTC,Mumbai,Kolkata,06:13,20,0,3,4,4,3,41,62.06,2025-03-29
+T0975,KPN Travels,Pune,Hyderabad,12:07,60,0,2,3,5,5,33,42.84,2025-03-30
+T0810,KPN Travels,Hyderabad,Delhi,04:00,10,0,5,3,2,3,33,71.2,2025-03-30
+T0760,KPN Travels,Pune,Bangalore,10:11,5,0,2,4,1,2,49,45.7,2025-03-30
+T0091,SRS Travels,Chennai,Bangalore,21:23,15,0,2,1,1,2,53,80.17,2025-03-31
+T0688,Orange Travels,Bangalore,Hyderabad,13:21,20,1,2,5,1,2,13,90.41,2025-03-31
+T0593,Parveen Travels,Chennai,Delhi,10:31,90,0,5,1,5,5,24,75.57,2025-03-31
+T0546,VRL,Pune,Bangalore,10:00,0,0,4,5,1,5,28,48.78,2025-03-31
+T1190,VRL,Bangalore,Chennai,05:58,60,1,5,4,4,5,35,69.99,2025-04-01
+T0840,Parveen Travels,Delhi,Mumbai,01:46,90,0,3,4,3,5,52,84.91,2025-04-01
+T0252,KSRTC,Pune,Bangalore,02:37,45,0,5,5,1,3,16,97.43,2025-04-01
+T0896,Orange Travels,Mumbai,Chennai,17:27,30,0,1,5,1,2,30,56.74,2025-04-02
+T1075,KSRTC,Kolkata,Chennai,13:44,0,0,3,3,2,1,45,96.31,2025-04-03
+T0106,Orange Travels,Hyderabad,Bangalore,21:20,30,0,4,4,2,4,56,95.51,2025-04-04
+T1146,VRL,Chennai,Delhi,12:31,90,0,1,5,4,4,35,55.87,2025-04-06
+T0906,Orange Travels,Chennai,Hyderabad,21:28,5,1,2,4,3,4,48,69.97,2025-04-06
+T0780,VRL,Mumbai,Delhi,04:26,45,0,5,2,5,2,17,98.37,2025-04-08
+T0213,KPN Travels,Chennai,Pune,08:56,90,0,2,3,3,4,57,73.45,2025-04-08
+T0758,Parveen Travels,Mumbai,Delhi,01:17,90,1,1,1,1,4,42,99.92,2025-04-08
+T1056,Parveen Travels,Chennai,Mumbai,16:52,30,1,4,5,4,3,43,74.78,2025-04-08
+T0334,VRL,Mumbai,Bangalore,16:07,60,0,1,4,5,5,56,70.14,2025-04-08
+T1164,Parveen Travels,Pune,Kolkata,05:28,5,0,5,2,3,3,52,52.49,2025-04-09
+T0509,Parveen Travels,Hyderabad,Delhi,22:56,5,0,2,5,1,3,21,80.93,2025-04-09
+T0420,KPN Travels,Kolkata,Pune,01:13,20,0,5,4,5,4,49,48.88,2025-04-09
+T0026,Parveen Travels,Delhi,Bangalore,16:40,20,0,5,1,1,2,51,46.93,2025-04-10
+T0068,Orange Travels,Bangalore,Pune,07:02,90,0,1,4,1,1,20,55.41,2025-04-10
+T0561,VRL,Delhi,Kolkata,10:33,0,0,5,4,3,3,12,87.17,2025-04-11
+T0811,KPN Travels,Mumbai,Kolkata,11:37,60,0,3,1,2,5,48,61.57,2025-04-12
+T1186,VRL,Hyderabad,Pune,18:20,10,0,2,1,4,5,46,94.44,2025-04-13
+T0329,SRS Travels,Mumbai,Bangalore,11:49,90,0,4,2,3,5,32,56.31,2025-04-14
+T0311,KPN Travels,Mumbai,Pune,11:58,5,0,2,5,3,5,27,95.76,2025-04-14
+T0330,VRL,Hyderabad,Delhi,11:28,90,0,4,1,2,5,47,93.53,2025-04-15
+T0351,TNSTC,Delhi,Bangalore,22:06,45,0,3,1,1,3,18,75.33,2025-04-16
+T0690,SRS Travels,Hyderabad,Pune,07:48,60,0,3,2,1,2,52,92.97,2025-04-17
+T0884,Parveen Travels,Chennai,Bangalore,03:57,0,1,5,5,3,3,27,51.78,2025-04-18
+T0923,TNSTC,Delhi,Mumbai,22:39,45,0,1,2,4,4,18,83.76,2025-04-19
+T0443,Orange Travels,Kolkata,Bangalore,21:37,0,0,2,2,1,3,57,66.88,2025-04-20
+T0276,TNSTC,Mumbai,Kolkata,11:44,0,0,2,5,3,5,34,93.44,2025-04-20
+T0653,TNSTC,Bangalore,Delhi,19:38,45,0,1,1,3,5,10,93.63,2025-04-21
+T0108,SRS Travels,Pune,Hyderabad,15:00,15,0,3,3,1,3,16,58.11,2025-04-23
+T0969,Orange Travels,Kolkata,Chennai,13:20,90,1,3,1,1,4,11,71.84,2025-04-23
+T0697,Parveen Travels,Chennai,Bangalore,07:52,90,0,5,1,5,4,44,72.0,2025-04-25
+T0511,VRL,Bangalore,Chennai,15:47,20,0,2,1,5,5,23,45.52,2025-04-25
+T0003,KSRTC,Hyderabad,Kolkata,23:07,20,0,2,5,1,2,25,89.83,2025-04-25
+T0157,Parveen Travels,Mumbai,Kolkata,13:33,45,0,1,2,3,4,60,42.1,2025-04-25
+T0186,KPN Travels,Hyderabad,Bangalore,03:42,5,0,5,3,5,4,30,48.76,2025-04-26
+T0610,VRL,Kolkata,Delhi,05:20,90,1,2,1,5,5,54,77.65,2025-04-26
+T0761,TNSTC,Chennai,Hyderabad,08:00,60,1,1,3,3,5,43,77.34,2025-04-27
+T0224,SRS Travels,Delhi,Chennai,21:07,15,1,2,4,1,5,31,44.23,2025-04-27
+T0500,TNSTC,Bangalore,Mumbai,08:34,20,0,4,5,5,1,29,55.25,2025-04-27
+T0031,KPN Travels,Pune,Delhi,04:23,20,0,1,2,1,5,38,57.96,2025-04-27
+T0618,KSRTC,Delhi,Pune,10:18,20,0,5,5,5,4,21,46.88,2025-04-28
+T0323,KSRTC,Mumbai,Delhi,20:14,30,0,5,2,3,1,54,49.59,2025-04-28
+T0836,KSRTC,Kolkata,Pune,09:48,60,0,4,4,3,1,17,57.28,2025-04-28
+T0714,VRL,Delhi,Hyderabad,03:00,60,0,2,3,1,4,19,70.71,2025-04-29
+T0368,KSRTC,Pune,Delhi,05:33,45,0,3,5,3,3,16,85.17,2025-04-30
+T0018,VRL,Mumbai,Pune,00:49,90,1,2,1,3,5,39,98.93,2025-05-01
+T0076,TNSTC,Kolkata,Chennai,14:32,15,0,1,2,4,5,33,68.96,2025-05-01
+T0776,Orange Travels,Bangalore,Pune,21:24,0,0,5,2,3,2,45,75.62,2025-05-01
+T0195,KPN Travels,Bangalore,Mumbai,10:45,90,0,2,5,1,3,48,57.58,2025-05-01
+T0060,Parveen Travels,Kolkata,Mumbai,01:12,90,1,5,3,4,5,22,84.5,2025-05-02
+T0073,KSRTC,Chennai,Kolkata,03:38,30,1,2,5,5,2,32,83.1,2025-05-02
+T0449,Parveen Travels,Chennai,Kolkata,04:33,5,1,1,1,2,1,38,82.17,2025-05-02
+T0203,TNSTC,Delhi,Hyderabad,23:45,45,0,5,3,4,4,26,75.21,2025-05-03
+T0665,KSRTC,Bangalore,Delhi,04:27,30,0,1,5,4,2,19,80.19,2025-05-03
+T0473,KPN Travels,Hyderabad,Kolkata,17:14,20,1,3,2,2,2,39,88.32,2025-05-04
+T0882,VRL,Kolkata,Delhi,13:40,10,0,5,4,3,1,26,92.22,2025-05-04
+T0116,KPN Travels,Mumbai,Delhi,06:15,0,0,2,1,2,2,53,72.0,2025-05-05
+T0506,TNSTC,Kolkata,Delhi,02:58,60,1,4,3,1,2,47,90.03,2025-05-05
+T0402,Orange Travels,Delhi,Pune,08:04,45,1,3,4,5,3,11,41.97,2025-05-06
+T0191,TNSTC,Bangalore,Pune,09:36,20,0,1,1,2,1,42,95.55,2025-05-06
+T0337,VRL,Delhi,Kolkata,06:58,45,0,4,5,3,1,40,59.1,2025-05-06
+T0150,Parveen Travels,Chennai,Delhi,21:24,10,0,5,3,2,5,51,69.19,2025-05-07
+T0749,VRL,Hyderabad,Delhi,00:31,90,1,3,5,2,2,51,72.74,2025-05-07
+T0484,VRL,Chennai,Delhi,19:26,10,0,5,5,1,5,50,65.75,2025-05-08
+T1022,Orange Travels,Chennai,Kolkata,08:41,60,0,2,4,1,4,57,99.61,2025-05-09
+T0954,TNSTC,Bangalore,Pune,09:59,60,0,4,1,1,5,16,76.93,2025-05-09
+T1021,Parveen Travels,Pune,Kolkata,21:18,30,0,4,5,5,4,16,73.84,2025-05-09
+T0935,Orange Travels,Chennai,Hyderabad,03:50,45,0,5,2,3,2,18,81.28,2025-05-10
+T0141,TNSTC,Chennai,Mumbai,04:41,0,0,1,2,3,2,23,72.59,2025-05-10
+T0089,SRS Travels,Mumbai,Hyderabad,10:30,0,0,5,1,2,4,46,52.7,2025-05-10
+T0095,TNSTC,Kolkata,Chennai,10:23,30,0,1,5,2,2,21,85.17,2025-05-11
+T1168,Parveen Travels,Bangalore,Hyderabad,11:59,10,1,4,1,3,1,15,75.65,2025-05-12
+T0219,Parveen Travels,Mumbai,Chennai,09:01,0,0,5,4,3,2,50,61.75,2025-05-12
+T0181,KPN Travels,Mumbai,Hyderabad,11:56,5,1,5,4,4,1,34,49.88,2025-05-13
+T0441,KSRTC,Mumbai,Kolkata,02:50,0,0,3,2,2,4,52,63.37,2025-05-13
+T0193,TNSTC,Chennai,Pune,16:01,20,1,5,4,5,2,16,86.41,2025-05-13
+T1071,Orange Travels,Kolkata,Pune,14:07,0,0,5,2,1,2,43,78.23,2025-05-13
+T0428,Orange Travels,Delhi,Kolkata,02:41,30,0,2,5,4,3,56,58.22,2025-05-15
+T0246,Orange Travels,Delhi,Pune,17:11,10,0,4,3,4,2,44,85.59,2025-05-16
+T0066,VRL,Pune,Kolkata,03:56,0,1,4,1,4,3,22,94.79,2025-05-17
+T0648,Orange Travels,Chennai,Hyderabad,04:06,60,1,3,4,5,1,13,96.87,2025-05-17
+T0217,TNSTC,Delhi,Kolkata,22:05,5,0,5,3,1,4,18,46.17,2025-05-18
+T0262,Orange Travels,Chennai,Delhi,09:22,15,1,4,1,3,5,37,76.07,2025-05-18
+T0562,VRL,Chennai,Bangalore,02:43,30,0,3,5,1,1,46,45.71,2025-05-18
+T0679,VRL,Delhi,Hyderabad,19:14,5,0,1,4,4,3,11,42.23,2025-05-18
+T1085,Orange Travels,Chennai,Bangalore,06:35,10,0,3,5,5,5,49,57.03,2025-05-18
+T0216,SRS Travels,Pune,Chennai,19:12,90,0,3,4,4,2,11,75.3,2025-05-20
+T0034,Orange Travels,Chennai,Bangalore,10:21,0,0,5,2,5,4,56,91.59,2025-05-21
+T0069,TNSTC,Delhi,Kolkata,14:39,0,0,4,1,1,4,29,40.5,2025-05-22
+T0597,KSRTC,Mumbai,Chennai,06:32,30,0,2,5,5,3,25,41.99,2025-05-22
+T0139,SRS Travels,Hyderabad,Delhi,02:34,20,1,5,3,2,2,47,88.44,2025-05-22
+T1097,SRS Travels,Delhi,Chennai,19:38,0,0,5,5,1,3,42,57.17,2025-05-22
+T0493,TNSTC,Kolkata,Hyderabad,06:41,15,1,4,4,3,2,50,51.11,2025-05-23
+T0404,SRS Travels,Kolkata,Hyderabad,21:02,45,0,2,1,3,5,13,73.43,2025-05-23
+T0008,Parveen Travels,Chennai,Hyderabad,12:33,30,0,1,3,1,4,30,52.25,2025-05-23
+T0448,KSRTC,Bangalore,Chennai,15:58,15,0,2,1,3,5,12,85.85,2025-05-25
+T0499,KPN Travels,Bangalore,Mumbai,17:43,60,1,4,3,5,3,24,72.64,2025-05-25
+T0608,KPN Travels,Kolkata,Hyderabad,13:35,5,0,4,1,5,2,55,95.42,2025-05-25
+T0098,KSRTC,Hyderabad,Pune,05:19,45,0,3,5,4,2,41,86.07,2025-05-25
+T1139,Parveen Travels,Pune,Mumbai,20:27,10,0,3,1,1,2,13,88.28,2025-05-26
+T0024,KPN Travels,Delhi,Pune,23:48,10,0,2,4,1,4,26,68.59,2025-05-27
+T0543,SRS Travels,Delhi,Pune,08:14,45,0,4,4,5,3,34,47.88,2025-05-27
+T0709,KPN Travels,Delhi,Kolkata,06:56,45,0,5,5,2,3,21,77.52,2025-05-28
+T0228,SRS Travels,Mumbai,Chennai,19:52,60,0,3,3,1,1,44,62.36,2025-05-28
+T0099,Parveen Travels,Hyderabad,Kolkata,13:15,60,0,5,5,5,2,27,81.52,2025-05-29
+T0171,Orange Travels,Chennai,Mumbai,04:18,60,0,1,1,4,2,19,84.18,2025-05-29
+T1013,SRS Travels,Hyderabad,Delhi,09:21,5,0,1,3,5,3,18,87.28,2025-05-29
+T0753,VRL,Mumbai,Hyderabad,19:57,90,0,1,4,4,3,54,61.38,2025-05-31
+T0555,Orange Travels,Mumbai,Chennai,03:53,10,0,2,4,1,1,35,87.87,2025-05-31
+T0726,Orange Travels,Chennai,Mumbai,23:18,30,0,5,5,3,3,55,80.54,2025-05-31
+T0988,Parveen Travels,Bangalore,Delhi,08:51,30,0,2,5,4,1,30,41.52,2025-05-31
+T0764,Orange Travels,Bangalore,Mumbai,08:35,5,1,1,3,4,3,22,57.03,2025-06-02
+T1068,KSRTC,Pune,Kolkata,11:58,15,0,2,5,4,1,18,51.13,2025-06-02
+T0129,KPN Travels,Pune,Kolkata,05:12,45,0,3,2,2,1,57,98.44,2025-06-03
+T0462,KSRTC,Chennai,Delhi,12:56,5,1,2,4,3,3,14,57.49,2025-06-03
+T0372,TNSTC,Bangalore,Delhi,13:50,0,0,3,3,4,1,23,94.17,2025-06-04
+T0588,TNSTC,Kolkata,Bangalore,20:30,15,1,3,4,5,1,23,55.14,2025-06-04
+T0078,VRL,Bangalore,Delhi,04:40,0,1,2,3,3,4,43,47.86,2025-06-04
+T0301,TNSTC,Chennai,Mumbai,15:11,20,0,5,2,5,4,30,41.87,2025-06-05
+T0889,VRL,Kolkata,Mumbai,18:54,30,0,1,2,2,3,45,95.17,2025-06-06
+T0247,TNSTC,Bangalore,Delhi,16:13,0,0,5,1,1,3,23,54.87,2025-06-06
+T0958,KPN Travels,Pune,Delhi,13:57,60,1,5,4,1,3,38,64.27,2025-06-06
+T1171,Orange Travels,Delhi,Bangalore,11:53,5,0,4,1,4,3,14,55.54,2025-06-07
+T0636,Orange Travels,Hyderabad,Chennai,12:30,0,0,2,1,4,3,50,95.39,2025-06-09
+T0599,Parveen Travels,Kolkata,Pune,00:56,90,0,3,2,4,2,50,77.03,2025-06-09
+T0336,TNSTC,Pune,Mumbai,23:23,30,0,1,2,1,1,22,49.43,2025-06-10
+T0222,SRS Travels,Mumbai,Bangalore,12:38,20,0,4,3,3,5,40,63.98,2025-06-10
+T0498,Orange Travels,Chennai,Hyderabad,00:43,90,0,3,1,2,3,53,53.5,2025-06-10
+T0698,TNSTC,Chennai,Delhi,19:44,10,1,1,3,3,2,59,59.79,2025-06-11
+T0074,KSRTC,Hyderabad,Pune,22:04,30,0,3,5,4,4,19,86.07,2025-06-11
+T0376,Orange Travels,Bangalore,Hyderabad,18:29,5,1,4,3,1,4,51,55.86,2025-06-11
+T0029,KPN Travels,Kolkata,Hyderabad,15:49,0,0,3,1,3,1,38,58.85,2025-06-11
+T0033,Orange Travels,Hyderabad,Chennai,06:33,10,0,5,3,1,1,60,79.12,2025-06-12
+T0156,Orange Travels,Mumbai,Delhi,07:38,15,0,2,1,5,4,22,75.58,2025-06-13
+T0850,KPN Travels,Kolkata,Pune,23:34,20,0,2,5,2,3,46,65.93,2025-06-13
+T1023,KSRTC,Hyderabad,Chennai,21:51,20,0,5,3,1,3,59,69.36,2025-06-13
+T0973,Orange Travels,Chennai,Bangalore,22:08,0,0,2,1,3,5,15,54.86,2025-06-13
+T0128,SRS Travels,Mumbai,Kolkata,23:53,0,0,3,4,2,1,18,70.12,2025-06-14
+T0206,TNSTC,Hyderabad,Pune,16:14,45,0,4,1,1,2,32,90.6,2025-06-14
+T0187,Orange Travels,Mumbai,Delhi,21:53,60,0,2,5,4,4,19,40.52,2025-06-15
+T0942,TNSTC,Mumbai,Chennai,00:00,0,0,1,4,1,5,21,62.74,2025-06-15
+T0629,VRL,Delhi,Mumbai,17:55,60,0,5,1,2,2,45,74.42,2025-06-15
+T0371,VRL,Hyderabad,Chennai,02:13,90,1,5,2,5,2,52,41.24,2025-06-16
+T0280,SRS Travels,Hyderabad,Pune,03:20,20,0,2,4,2,3,10,43.88,2025-06-16
+T0583,KPN Travels,Kolkata,Mumbai,15:51,10,0,5,3,5,4,11,49.39,2025-06-16
+T0659,KPN Travels,Kolkata,Mumbai,03:26,30,0,3,1,5,5,49,84.64,2025-06-17
+T0300,VRL,Mumbai,Delhi,19:02,60,0,2,1,5,3,52,51.45,2025-06-17
+T0107,TNSTC,Bangalore,Kolkata,06:05,0,0,3,2,3,3,11,46.0,2025-06-17
+T0223,VRL,Bangalore,Mumbai,10:11,10,0,4,3,1,5,53,50.3,2025-06-18
+T0614,Parveen Travels,Kolkata,Mumbai,16:52,15,0,3,4,5,5,58,48.59,2025-06-18
+T0093,Parveen Travels,Bangalore,Pune,23:24,30,0,1,5,1,4,48,94.9,2025-06-18
+T1001,KPN Travels,Kolkata,Delhi,19:56,30,0,1,1,4,1,45,66.41,2025-06-20
+T0544,Orange Travels,Pune,Kolkata,14:46,10,0,1,5,4,2,45,79.81,2025-06-20
+T0947,Parveen Travels,Bangalore,Hyderabad,10:48,15,1,1,1,5,2,52,74.79,2025-06-20
+T0178,Parveen Travels,Mumbai,Hyderabad,10:38,5,0,1,3,5,3,30,43.23,2025-06-20
+T0485,Parveen Travels,Bangalore,Chennai,00:19,30,0,1,2,1,4,54,69.39,2025-06-20
+T0331,KPN Travels,Chennai,Delhi,23:50,5,0,1,2,1,3,24,49.83,2025-06-21
+T0738,SRS Travels,Mumbai,Delhi,23:03,10,1,2,5,2,4,17,82.65,2025-06-21
+T0898,KPN Travels,Pune,Chennai,18:46,0,0,1,4,2,3,42,93.02,2025-06-21
+T1009,VRL,Mumbai,Bangalore,23:00,90,1,5,1,3,2,53,61.35,2025-06-21
+T1089,SRS Travels,Chennai,Hyderabad,12:03,90,0,2,5,5,1,25,66.71,2025-06-22
+T0531,TNSTC,Kolkata,Hyderabad,04:59,5,0,3,5,4,2,36,59.2,2025-06-23
+T0410,SRS Travels,Bangalore,Kolkata,06:08,45,0,1,5,5,2,45,73.65,2025-06-23
+T1030,KSRTC,Mumbai,Hyderabad,08:08,0,0,3,4,2,1,49,74.19,2025-06-23
+T0248,Parveen Travels,Bangalore,Mumbai,23:29,5,0,2,1,1,1,59,77.1,2025-06-23
+T0425,KSRTC,Mumbai,Chennai,07:31,15,0,5,2,5,2,28,82.44,2025-06-24
+T0623,TNSTC,Mumbai,Hyderabad,05:40,30,1,4,5,2,3,32,84.37,2025-06-24
+T0673,KSRTC,Delhi,Chennai,14:39,30,1,1,5,5,4,28,57.92,2025-06-26
+T0702,Parveen Travels,Chennai,Hyderabad,08:02,30,1,2,2,5,2,35,61.28,2025-06-26
+T0211,SRS Travels,Mumbai,Kolkata,19:43,5,0,3,3,4,5,43,60.7,2025-06-27
+T0899,KPN Travels,Kolkata,Mumbai,20:20,5,0,1,2,3,3,51,80.35,2025-06-28
+T0996,Parveen Travels,Delhi,Kolkata,14:35,0,0,4,5,1,3,43,94.09,2025-06-28
+T0102,Parveen Travels,Kolkata,Delhi,10:49,20,0,3,5,4,3,17,57.28,2025-06-29
+T1196,KPN Travels,Bangalore,Chennai,08:16,90,0,4,1,5,4,49,81.82,2025-06-29
+T0369,VRL,Delhi,Pune,06:39,15,0,2,3,1,1,48,85.2,2025-06-29
+T0264,Parveen Travels,Bangalore,Delhi,03:24,15,1,3,3,4,4,24,95.48,2025-07-01
+T0036,Orange Travels,Hyderabad,Mumbai,19:10,45,1,3,4,3,4,59,77.64,2025-07-01
+T0687,Parveen Travels,Hyderabad,Mumbai,09:53,15,1,5,3,1,1,25,42.15,2025-07-01
+T0619,SRS Travels,Delhi,Kolkata,12:03,15,0,4,3,3,2,15,85.69,2025-07-03
+T1120,Orange Travels,Mumbai,Kolkata,08:04,20,0,1,1,4,1,43,63.72,2025-07-03
+T1181,TNSTC,Pune,Bangalore,10:56,20,0,3,1,2,3,20,82.92,2025-07-04
+T0793,Parveen Travels,Delhi,Bangalore,16:41,45,0,4,1,2,1,42,85.09,2025-07-06
+T0085,KSRTC,Delhi,Bangalore,17:50,60,0,3,5,5,1,25,89.21,2025-07-06
+T0142,Orange Travels,Pune,Delhi,04:51,0,0,4,2,1,2,11,46.02,2025-07-07
+T0658,TNSTC,Bangalore,Delhi,03:18,45,1,3,2,1,1,11,71.57,2025-07-08
+T0819,KSRTC,Delhi,Hyderabad,10:06,60,0,4,5,3,1,46,88.65,2025-07-08
+T0161,KPN Travels,Pune,Chennai,01:16,90,0,2,3,3,3,29,76.57,2025-07-09
+T0576,SRS Travels,Kolkata,Bangalore,19:42,90,1,4,3,1,1,38,80.5,2025-07-11
+T0389,Orange Travels,Mumbai,Pune,17:07,30,0,3,5,5,2,22,94.22,2025-07-11
+T0777,KPN Travels,Hyderabad,Delhi,13:01,5,0,3,1,2,4,30,68.17,2025-07-11
+T0207,TNSTC,Bangalore,Chennai,23:26,90,1,1,4,1,1,28,91.33,2025-07-12
+T0041,TNSTC,Chennai,Mumbai,20:24,30,0,2,2,1,5,35,63.32,2025-07-14
+T0708,TNSTC,Delhi,Chennai,14:34,10,0,2,5,1,1,37,64.73,2025-07-15
+T1052,SRS Travels,Delhi,Bangalore,21:47,90,0,2,5,4,3,52,66.53,2025-07-15
+T0559,SRS Travels,Bangalore,Kolkata,22:21,5,0,4,5,4,1,53,90.66,2025-07-15
+T0105,SRS Travels,Pune,Mumbai,03:55,20,0,1,2,4,3,31,54.75,2025-07-16
+T0984,Parveen Travels,Chennai,Pune,00:38,15,0,5,4,3,1,46,88.01,2025-07-16
+T1055,VRL,Hyderabad,Kolkata,15:49,60,0,4,4,2,2,13,44.87,2025-07-16
+T0281,SRS Travels,Delhi,Mumbai,15:26,20,0,2,3,5,1,58,45.2,2025-07-17
+T0254,SRS Travels,Hyderabad,Mumbai,07:44,60,0,3,1,2,5,36,47.54,2025-07-17
+T0478,Orange Travels,Kolkata,Pune,05:41,10,0,2,4,4,1,14,60.06,2025-07-18
+T0184,SRS Travels,Pune,Bangalore,19:11,5,0,5,4,5,4,35,92.38,2025-07-18
+T0495,SRS Travels,Chennai,Hyderabad,05:00,20,0,3,1,5,5,28,70.69,2025-07-19
+T0483,Parveen Travels,Mumbai,Pune,07:24,0,0,1,3,5,5,13,70.0,2025-07-19
+T0366,KPN Travels,Delhi,Kolkata,15:55,30,0,1,4,5,4,32,83.06,2025-07-19
+T0229,VRL,Hyderabad,Kolkata,20:49,90,0,4,1,2,3,39,46.59,2025-07-20
+T0256,KPN Travels,Pune,Mumbai,16:18,5,0,1,4,3,1,26,44.31,2025-07-21
+T0999,KSRTC,Kolkata,Chennai,16:35,30,0,1,3,3,1,13,88.97,2025-07-21
+T0053,VRL,Delhi,Hyderabad,11:44,0,1,3,3,2,5,59,72.49,2025-07-21
+T0087,Orange Travels,Bangalore,Pune,03:26,30,0,2,2,5,2,21,93.76,2025-07-21
+T0980,VRL,Kolkata,Bangalore,02:34,10,0,2,5,4,4,50,60.86,2025-07-23
+T0054,SRS Travels,Delhi,Hyderabad,13:28,0,0,1,3,4,4,36,96.93,2025-07-23
+T0759,Orange Travels,Pune,Chennai,17:42,0,1,4,5,1,2,15,60.71,2025-07-23
+T1069,Orange Travels,Mumbai,Delhi,13:35,20,1,1,1,5,2,33,40.1,2025-07-23
+T0380,Parveen Travels,Pune,Chennai,06:18,0,0,1,3,2,4,32,96.34,2025-07-23
+T1183,TNSTC,Pune,Bangalore,00:25,5,0,1,1,2,5,50,95.5,2025-07-24
+T1058,SRS Travels,Bangalore,Hyderabad,13:51,5,1,3,3,4,5,12,68.27,2025-07-24
+T0040,KPN Travels,Hyderabad,Chennai,18:52,5,0,5,3,3,1,25,99.27,2025-07-24
+T0444,KPN Travels,Bangalore,Pune,10:57,5,0,5,2,2,3,29,63.87,2025-07-25
+T1004,Orange Travels,Pune,Chennai,23:58,30,0,3,3,5,3,27,41.87,2025-07-25
+T0962,KSRTC,Kolkata,Bangalore,22:45,90,0,2,1,2,1,57,54.35,2025-07-25
+T0399,KSRTC,Chennai,Mumbai,14:25,0,0,3,4,5,4,33,54.62,2025-07-25
+T1109,TNSTC,Delhi,Chennai,03:28,15,0,4,2,5,5,45,81.22,2025-07-26
+T1087,KPN Travels,Chennai,Bangalore,11:21,20,0,1,1,5,5,14,95.3,2025-07-27
+T0360,Parveen Travels,Hyderabad,Pune,17:05,10,0,2,3,1,5,50,94.09,2025-07-27
+T0517,Orange Travels,Bangalore,Delhi,04:49,0,0,2,4,3,3,31,90.79,2025-07-28
+T0209,KSRTC,Bangalore,Hyderabad,04:40,45,0,4,1,5,2,56,98.98,2025-07-29
+T1081,SRS Travels,Pune,Chennai,22:27,10,0,3,1,4,3,48,44.23,2025-07-29
+T0542,KSRTC,Bangalore,Mumbai,11:35,0,1,1,4,1,1,35,41.38,2025-07-29
+T1046,KSRTC,Hyderabad,Kolkata,13:42,5,0,3,1,4,4,24,87.38,2025-07-30
+T0662,TNSTC,Delhi,Bangalore,15:51,30,1,3,1,4,3,12,80.06,2025-07-30
+T0724,Parveen Travels,Pune,Kolkata,18:52,15,0,4,3,2,1,53,46.32,2025-07-30
+T0611,VRL,Mumbai,Kolkata,10:07,0,0,5,2,1,1,11,64.73,2025-07-31
+T0677,SRS Travels,Bangalore,Mumbai,20:59,90,0,3,4,2,4,34,73.85,2025-07-31
+T0407,Orange Travels,Bangalore,Delhi,10:24,60,0,1,1,2,4,44,69.4,2025-07-31
+T0200,KSRTC,Delhi,Pune,21:19,60,1,4,2,4,1,45,97.23,2025-07-31
+T0851,TNSTC,Hyderabad,Mumbai,13:38,0,0,2,3,5,4,20,98.75,2025-07-31
+T0199,SRS Travels,Hyderabad,Bangalore,15:39,0,0,3,4,5,1,60,62.69,2025-08-01
+T1163,VRL,Pune,Bangalore,05:51,30,1,1,4,4,2,27,48.55,2025-08-01
+T0855,VRL,Mumbai,Hyderabad,21:58,5,1,5,1,5,4,30,47.95,2025-08-03
+T1169,TNSTC,Hyderabad,Pune,23:39,0,0,1,1,4,5,17,60.27,2025-08-04
+T0523,TNSTC,Chennai,Kolkata,16:44,0,0,4,4,3,2,18,70.53,2025-08-04
+T0174,TNSTC,Mumbai,Hyderabad,10:26,10,0,2,3,1,1,42,64.14,2025-08-05
+T0806,KSRTC,Pune,Bangalore,05:45,5,0,2,1,4,1,43,98.12,2025-08-05
+T1051,Orange Travels,Mumbai,Bangalore,12:25,20,0,1,3,4,5,28,60.79,2025-08-06
+T0352,KPN Travels,Bangalore,Chennai,22:00,15,0,2,5,4,4,40,45.04,2025-08-07
+T0293,Parveen Travels,Hyderabad,Mumbai,02:43,0,0,1,3,3,2,27,81.43,2025-08-07
+T0165,Orange Travels,Mumbai,Chennai,11:19,15,0,1,3,4,1,38,93.16,2025-08-09
+T0434,KSRTC,Bangalore,Pune,22:44,15,1,1,5,5,5,13,65.31,2025-08-10
+T1053,TNSTC,Pune,Hyderabad,05:58,0,0,1,3,1,2,37,81.46,2025-08-10
+T0028,Orange Travels,Delhi,Pune,00:30,20,0,4,2,4,3,49,72.78,2025-08-10
+T0762,TNSTC,Kolkata,Delhi,09:13,90,0,3,4,3,3,28,97.16,2025-08-11
+T0130,Orange Travels,Mumbai,Delhi,06:46,60,1,1,2,1,2,13,69.89,2025-08-12
+T0915,Orange Travels,Pune,Mumbai,22:41,10,0,3,2,3,1,28,82.25,2025-08-12
+T0521,KPN Travels,Delhi,Mumbai,10:28,90,0,2,4,5,4,28,43.02,2025-08-12
+T0888,KSRTC,Bangalore,Delhi,01:27,90,0,3,3,1,1,46,61.67,2025-08-14
+T0011,Orange Travels,Mumbai,Delhi,04:52,60,1,2,1,5,5,27,60.22,2025-08-15
+T0450,VRL,Pune,Hyderabad,21:27,60,0,5,2,4,1,55,73.89,2025-08-15
+T0681,TNSTC,Hyderabad,Kolkata,23:42,5,0,4,5,5,2,16,53.35,2025-08-15
+T1111,VRL,Mumbai,Pune,16:27,5,0,5,3,5,5,52,45.62,2025-08-15
+T0925,Orange Travels,Bangalore,Hyderabad,23:48,30,0,4,5,1,3,49,42.99,2025-08-15
+T0307,Parveen Travels,Delhi,Kolkata,01:57,15,0,5,4,5,5,39,52.62,2025-08-17
+T0881,TNSTC,Pune,Hyderabad,19:40,60,1,3,4,3,2,31,43.87,2025-08-17
+T0305,KSRTC,Mumbai,Pune,08:21,20,0,1,1,3,4,48,84.29,2025-08-17
+T0950,KSRTC,Bangalore,Kolkata,19:58,30,0,4,2,3,4,12,93.28,2025-08-17
+T0267,SRS Travels,Chennai,Hyderabad,12:54,15,0,1,3,5,3,43,48.39,2025-08-18
+T0746,Orange Travels,Delhi,Hyderabad,03:22,15,0,5,4,3,1,50,93.86,2025-08-19
+T1102,KSRTC,Hyderabad,Pune,07:56,30,0,1,1,3,1,48,79.15,2025-08-19
+T0812,KPN Travels,Hyderabad,Kolkata,20:57,45,1,4,3,1,2,16,46.27,2025-08-20
+T0038,SRS Travels,Mumbai,Hyderabad,10:27,20,1,5,3,2,1,25,48.13,2025-08-21
+T0631,TNSTC,Bangalore,Delhi,01:53,10,0,3,2,3,3,42,84.5,2025-08-23
+T0640,KPN Travels,Kolkata,Delhi,22:49,45,0,5,5,2,1,34,97.82,2025-08-24
+T0774,Parveen Travels,Delhi,Bangalore,12:18,15,1,1,5,1,2,25,50.43,2025-08-25
+T0644,TNSTC,Mumbai,Pune,03:01,20,0,1,5,4,1,26,61.23,2025-08-25
+T0037,KSRTC,Kolkata,Pune,08:46,60,1,3,2,4,1,58,74.91,2025-08-25
+T0552,KSRTC,Hyderabad,Mumbai,10:33,5,0,3,3,3,3,22,40.05,2025-08-25
+T0427,VRL,Bangalore,Mumbai,07:23,5,0,1,3,3,5,48,87.17,2025-08-25
+T0730,Orange Travels,Chennai,Hyderabad,12:50,30,0,2,5,5,2,52,55.98,2025-08-25
+T0272,Parveen Travels,Bangalore,Mumbai,08:48,90,0,1,1,4,3,14,81.18,2025-08-26
+T0694,Orange Travels,Pune,Delhi,17:16,0,1,3,3,4,4,53,50.79,2025-08-26
+T0146,Orange Travels,Kolkata,Pune,11:24,0,0,4,4,5,5,58,64.6,2025-08-27
+T0303,KSRTC,Kolkata,Chennai,05:13,45,1,4,3,3,2,46,84.29,2025-08-27
+T1088,SRS Travels,Hyderabad,Delhi,03:54,5,0,5,2,2,3,17,85.49,2025-08-27
+T0978,KPN Travels,Pune,Hyderabad,22:49,0,0,3,1,4,3,48,45.2,2025-08-29
+T1108,TNSTC,Kolkata,Mumbai,23:27,20,0,3,5,1,4,15,73.69,2025-08-29
+T0032,Orange Travels,Bangalore,Mumbai,16:04,45,0,4,2,4,4,14,73.69,2025-08-29
+T0530,KSRTC,Hyderabad,Kolkata,20:29,10,0,4,2,4,3,25,64.06,2025-08-31
+T0532,Orange Travels,Chennai,Mumbai,16:16,15,0,2,5,5,2,58,52.83,2025-09-02
+T0620,TNSTC,Mumbai,Delhi,17:13,45,1,4,2,5,5,28,82.16,2025-09-02
+T1118,KSRTC,Chennai,Bangalore,22:03,20,0,2,4,3,3,25,85.99,2025-09-02
+T0741,KPN Travels,Mumbai,Pune,00:43,30,0,1,2,3,4,43,59.56,2025-09-02
+T0152,VRL,Mumbai,Bangalore,04:23,45,0,1,4,2,5,37,81.88,2025-09-02
+T0501,VRL,Delhi,Hyderabad,06:45,0,1,5,5,4,5,54,97.41,2025-09-04
+T0755,Orange Travels,Hyderabad,Bangalore,06:39,0,0,3,4,5,2,32,43.71,2025-09-05
+T1147,KSRTC,Pune,Hyderabad,16:05,30,0,1,1,5,2,39,80.47,2025-09-06
+T0149,SRS Travels,Kolkata,Bangalore,08:17,90,0,5,4,2,1,54,60.59,2025-09-06
+T0260,Orange Travels,Mumbai,Kolkata,16:55,5,1,3,3,3,3,51,59.17,2025-09-06
+T0858,KPN Travels,Mumbai,Pune,01:08,10,0,1,1,5,2,47,56.03,2025-09-06
+T1084,SRS Travels,Delhi,Mumbai,22:13,0,0,2,3,1,1,35,73.67,2025-09-07
+T1002,TNSTC,Chennai,Delhi,04:10,90,0,1,2,3,1,31,98.13,2025-09-07
+T1104,KSRTC,Mumbai,Delhi,09:51,0,0,5,1,5,5,20,75.84,2025-09-07
+T0616,Parveen Travels,Chennai,Pune,12:24,5,0,1,4,1,2,33,56.76,2025-09-10
+T0770,TNSTC,Mumbai,Kolkata,12:20,30,0,5,5,5,2,31,99.06,2025-09-10
+T0674,KSRTC,Pune,Delhi,18:14,60,1,5,1,4,4,36,51.45,2025-09-10
+T1162,TNSTC,Mumbai,Pune,02:01,0,0,3,5,2,5,42,43.03,2025-09-11
+T1123,TNSTC,Kolkata,Pune,06:49,20,0,1,4,1,4,46,93.6,2025-09-12
+T0113,VRL,Mumbai,Kolkata,10:53,5,0,1,2,5,2,26,90.96,2025-09-12
+T0269,Parveen Travels,Pune,Hyderabad,16:00,60,0,2,4,2,5,14,58.13,2025-09-12
+T1132,Parveen Travels,Mumbai,Delhi,17:51,90,0,3,4,4,5,53,46.79,2025-09-13
+T0384,TNSTC,Bangalore,Delhi,09:49,20,0,2,5,4,3,16,49.46,2025-09-13
+T0982,VRL,Hyderabad,Kolkata,07:43,60,0,5,4,2,4,51,97.83,2025-09-14
+T0312,KSRTC,Pune,Hyderabad,06:29,90,0,4,2,3,3,53,87.02,2025-09-14
+T0101,SRS Travels,Hyderabad,Pune,01:30,0,1,5,3,2,1,39,87.81,2025-09-14
+T0513,TNSTC,Mumbai,Delhi,11:03,0,0,2,2,4,5,59,50.66,2025-09-15
+T0387,TNSTC,Chennai,Bangalore,05:01,90,0,3,4,2,2,14,58.08,2025-09-15
+T1049,TNSTC,Chennai,Pune,22:41,0,1,2,2,3,5,25,83.85,2025-09-15
+T0953,KPN Travels,Bangalore,Mumbai,01:11,5,0,1,1,4,2,48,99.39,2025-09-16
+T0585,SRS Travels,Mumbai,Bangalore,13:25,60,0,1,5,4,2,40,92.61,2025-09-17
+T0930,KSRTC,Delhi,Bangalore,03:49,5,0,4,3,2,2,22,97.97,2025-09-17
+T0020,Orange Travels,Kolkata,Bangalore,19:51,60,0,4,3,5,2,34,73.6,2025-09-18
+T0479,SRS Travels,Kolkata,Bangalore,17:30,0,0,2,1,2,2,59,88.75,2025-09-18
+T0431,VRL,Delhi,Hyderabad,00:34,60,0,5,4,3,3,31,61.78,2025-09-19
+T0090,VRL,Bangalore,Delhi,01:16,0,0,4,5,1,2,38,46.69,2025-09-19
+T0400,VRL,Chennai,Mumbai,00:07,0,0,5,2,1,3,26,72.29,2025-09-20
+T0578,VRL,Bangalore,Chennai,20:12,20,1,4,3,1,5,33,81.15,2025-09-20
+T0182,SRS Travels,Pune,Hyderabad,09:55,20,0,5,4,2,3,25,74.51,2025-09-20
+T0548,SRS Travels,Hyderabad,Chennai,14:12,10,0,4,4,5,3,31,55.2,2025-09-20
+T0732,TNSTC,Delhi,Kolkata,02:06,15,0,1,1,3,5,52,46.32,2025-09-21
+T0565,VRL,Kolkata,Delhi,02:36,10,1,1,5,1,2,13,54.28,2025-09-22
+T0082,TNSTC,Delhi,Bangalore,22:07,60,0,4,2,2,4,60,77.95,2025-09-22
+T0945,SRS Travels,Hyderabad,Bangalore,10:32,10,0,3,1,1,4,15,51.65,2025-09-22
+T0550,Orange Travels,Pune,Chennai,03:57,10,0,4,4,4,3,52,63.53,2025-09-22
+T0686,VRL,Delhi,Hyderabad,12:11,30,0,5,4,1,5,31,76.91,2025-09-23
+T0297,SRS Travels,Mumbai,Chennai,16:29,15,0,5,1,1,2,37,67.3,2025-09-23
+T0240,VRL,Kolkata,Bangalore,09:21,30,1,5,1,2,4,25,76.91,2025-09-23
+T0956,TNSTC,Hyderabad,Bangalore,19:21,60,0,2,2,3,2,46,95.77,2025-09-23
+T0394,Parveen Travels,Delhi,Kolkata,10:45,45,0,1,2,5,4,13,54.84,2025-09-25
+T0170,KSRTC,Kolkata,Mumbai,04:45,10,1,4,2,3,1,22,46.03,2025-09-25
+T0744,Orange Travels,Delhi,Chennai,04:12,60,0,3,4,2,1,34,48.33,2025-09-25
+T0339,Parveen Travels,Hyderabad,Pune,15:48,5,0,4,2,2,1,27,60.38,2025-09-26
+T0426,Orange Travels,Delhi,Mumbai,07:56,15,1,3,4,1,1,38,47.92,2025-09-26
+T1192,Orange Travels,Bangalore,Kolkata,12:00,5,0,1,5,3,5,22,61.65,2025-09-27
+T1136,TNSTC,Bangalore,Kolkata,10:50,45,0,3,1,5,3,15,61.81,2025-09-28
+T0849,Orange Travels,Kolkata,Delhi,16:40,60,0,3,5,1,1,41,76.77,2025-09-29
+T0897,Parveen Travels,Delhi,Bangalore,04:29,30,0,1,3,5,1,23,50.73,2025-09-30
+T0071,KSRTC,Chennai,Mumbai,16:49,5,0,2,1,1,4,56,66.27,2025-09-30
+T0601,KSRTC,Chennai,Bangalore,15:11,10,0,3,5,5,4,59,66.04,2025-10-02
+T0763,SRS Travels,Kolkata,Mumbai,11:47,0,1,2,3,2,1,57,97.68,2025-10-03
+T0452,TNSTC,Delhi,Hyderabad,15:26,5,0,3,4,4,2,24,97.46,2025-10-03
+T0638,VRL,Mumbai,Bangalore,10:30,45,0,5,2,2,2,22,44.15,2025-10-04
+T0880,TNSTC,Pune,Mumbai,04:59,10,0,5,4,1,5,29,60.72,2025-10-05
+T0921,TNSTC,Mumbai,Chennai,19:21,10,0,3,3,3,4,47,99.63,2025-10-05
+T0938,Parveen Travels,Delhi,Pune,09:44,10,0,5,4,2,4,26,86.35,2025-10-05
+T0438,SRS Travels,Delhi,Hyderabad,05:02,30,0,1,4,3,2,27,96.28,2025-10-06
+T0788,KSRTC,Pune,Bangalore,15:28,30,0,4,3,2,5,23,83.73,2025-10-06
+T0502,Parveen Travels,Kolkata,Mumbai,00:25,45,0,4,1,3,4,40,53.24,2025-10-06
+T0739,KSRTC,Hyderabad,Chennai,14:50,0,0,1,1,2,5,31,80.94,2025-10-06
+T1036,SRS Travels,Kolkata,Bangalore,15:31,45,0,1,2,4,1,15,70.9,2025-10-07
+T0628,VRL,Chennai,Bangalore,09:29,60,0,5,3,5,5,23,46.94,2025-10-08
+T0309,Orange Travels,Pune,Hyderabad,23:21,90,0,3,3,4,2,50,58.96,2025-10-08
+T0735,KPN Travels,Pune,Delhi,03:43,90,0,5,2,5,5,17,85.25,2025-10-09
+T0283,TNSTC,Hyderabad,Mumbai,03:12,10,0,5,2,3,1,51,75.86,2025-10-09
+T0972,Orange Travels,Hyderabad,Chennai,15:01,15,1,5,5,4,5,23,50.59,2025-10-09
+T0236,Orange Travels,Delhi,Pune,19:59,60,0,2,5,3,1,22,90.09,2025-10-09
+T0391,SRS Travels,Delhi,Kolkata,12:25,30,0,3,3,1,4,42,49.19,2025-10-10
+T0660,SRS Travels,Mumbai,Chennai,18:47,60,0,3,1,2,1,41,53.81,2025-10-10
+T0359,KSRTC,Hyderabad,Delhi,09:32,45,0,1,3,3,4,41,99.88,2025-10-11
+T0302,KSRTC,Delhi,Kolkata,03:11,90,0,1,3,2,1,10,94.31,2025-10-11
+T0579,Orange Travels,Mumbai,Bangalore,02:21,0,1,3,2,4,5,47,85.76,2025-10-12
+T0505,Parveen Travels,Delhi,Chennai,20:08,10,0,1,3,5,4,12,78.43,2025-10-12
+T0854,KPN Travels,Chennai,Delhi,02:51,5,0,2,4,2,1,60,61.92,2025-10-12
+T0524,KPN Travels,Pune,Mumbai,07:51,30,0,5,4,2,4,42,87.3,2025-10-12
+T0266,Parveen Travels,Chennai,Pune,13:43,5,0,3,5,4,1,17,81.61,2025-10-12
+T1083,KSRTC,Pune,Bangalore,12:05,30,0,5,3,4,3,52,76.8,2025-10-12
+T0768,VRL,Chennai,Hyderabad,12:38,5,0,1,2,4,1,32,76.51,2025-10-12
+T0408,SRS Travels,Delhi,Hyderabad,00:36,0,1,3,3,3,2,12,98.58,2025-10-12
+T0257,Orange Travels,Hyderabad,Mumbai,09:16,90,0,5,4,4,4,60,42.97,2025-10-13
+T1129,SRS Travels,Pune,Mumbai,03:35,30,0,4,2,5,2,23,43.78,2025-10-14
+T0390,KPN Travels,Hyderabad,Chennai,18:44,10,0,4,3,5,3,43,48.73,2025-10-15
+T0035,KPN Travels,Mumbai,Delhi,15:46,10,0,4,1,4,4,33,94.43,2025-10-15
+T0021,Parveen Travels,Hyderabad,Kolkata,13:34,20,0,2,1,1,3,12,95.97,2025-10-15
+T0310,Parveen Travels,Hyderabad,Mumbai,13:18,15,0,3,1,4,4,58,87.42,2025-10-15
+T0769,KSRTC,Bangalore,Chennai,04:13,0,1,4,3,4,4,53,74.16,2025-10-16
+T0979,SRS Travels,Bangalore,Pune,20:16,15,0,4,4,2,4,40,73.73,2025-10-16
+T1078,VRL,Delhi,Kolkata,01:47,90,0,2,5,5,3,53,82.1,2025-10-17
+T0883,TNSTC,Pune,Hyderabad,09:55,10,1,1,3,3,1,19,76.27,2025-10-18
+T0624,KSRTC,Delhi,Kolkata,19:08,45,0,1,3,1,2,57,92.98,2025-10-19
+T1198,Parveen Travels,Pune,Kolkata,23:33,15,0,2,1,1,3,32,64.4,2025-10-20
+T0890,VRL,Chennai,Pune,08:11,0,0,2,2,5,4,50,72.57,2025-10-20
+T1050,SRS Travels,Chennai,Hyderabad,09:44,60,1,2,5,3,4,10,88.61,2025-10-20
+T0991,KPN Travels,Mumbai,Delhi,23:16,30,1,2,1,5,5,23,60.71,2025-10-21
+T0002,KPN Travels,Mumbai,Hyderabad,03:05,15,0,2,1,3,5,35,63.98,2025-10-21
+T1117,KSRTC,Hyderabad,Delhi,08:30,0,0,1,5,2,1,13,96.39,2025-10-21
+T0465,SRS Travels,Hyderabad,Chennai,17:19,15,0,4,4,1,4,50,67.29,2025-10-22
+T0405,TNSTC,Pune,Bangalore,07:56,5,1,4,4,1,2,46,48.77,2025-10-22
+T0802,Orange Travels,Bangalore,Hyderabad,04:34,90,0,5,1,4,2,23,65.09,2025-10-23
+T0936,TNSTC,Kolkata,Mumbai,23:30,60,0,1,3,3,5,48,59.18,2025-10-24
+T0828,TNSTC,Hyderabad,Delhi,10:18,30,0,3,3,2,3,19,86.28,2025-10-24
+T0791,TNSTC,Delhi,Chennai,02:09,20,0,1,5,5,2,33,84.53,2025-10-24
+T0772,KSRTC,Delhi,Bangalore,18:26,20,1,3,5,1,1,55,67.45,2025-10-24
+T0905,KSRTC,Kolkata,Delhi,17:45,10,1,4,1,3,4,58,72.93,2025-10-25
+T0432,Parveen Travels,Chennai,Kolkata,16:13,20,0,4,1,4,1,35,72.73,2025-10-25
+T0287,Parveen Travels,Mumbai,Bangalore,05:50,90,0,5,3,4,3,28,58.45,2025-10-25
+T0600,Parveen Travels,Mumbai,Hyderabad,21:59,10,0,3,2,3,4,49,77.84,2025-10-27
+T1064,VRL,Pune,Hyderabad,14:17,0,0,4,2,5,4,41,51.63,2025-10-27
+T0373,KPN Travels,Delhi,Pune,17:11,0,0,4,4,3,5,31,40.3,2025-10-28
+T1153,VRL,Hyderabad,Chennai,20:34,60,0,3,4,5,2,57,98.39,2025-10-28
+T0575,SRS Travels,Pune,Delhi,10:16,10,0,1,5,4,4,56,69.92,2025-10-28
+T0878,Orange Travels,Kolkata,Chennai,07:45,15,1,3,1,4,3,53,50.64,2025-10-28
+T0912,Orange Travels,Pune,Chennai,16:45,5,0,3,5,3,5,51,73.29,2025-10-28
+T0096,Parveen Travels,Chennai,Delhi,19:01,90,0,2,3,5,5,27,88.87,2025-10-31
+T1106,TNSTC,Chennai,Kolkata,05:01,60,0,2,3,4,5,21,66.74,2025-10-31
+T0014,KSRTC,Delhi,Kolkata,14:41,90,0,4,3,5,3,52,76.99,2025-11-01
+T1152,KSRTC,Delhi,Bangalore,13:14,45,0,3,1,2,1,53,54.17,2025-11-01
+T0639,TNSTC,Chennai,Hyderabad,08:58,10,0,3,3,5,2,53,58.6,2025-11-01
+T0514,KSRTC,Kolkata,Chennai,04:23,0,1,1,4,5,4,30,62.7,2025-11-01
+T0971,VRL,Bangalore,Chennai,10:48,20,0,2,1,1,5,52,62.69,2025-11-01
+T0052,VRL,Delhi,Bangalore,17:40,10,1,5,1,5,5,40,51.5,2025-11-02
+T1184,KSRTC,Bangalore,Chennai,09:34,45,1,4,5,5,5,50,89.58,2025-11-03
+T1005,Parveen Travels,Kolkata,Mumbai,09:15,5,0,5,2,3,2,59,58.1,2025-11-04
+T0135,KPN Travels,Pune,Hyderabad,23:25,30,1,2,3,3,2,37,78.91,2025-11-04
+T0086,Orange Travels,Kolkata,Hyderabad,15:12,45,1,3,3,3,4,43,85.53,2025-11-04
+T0057,SRS Travels,Bangalore,Kolkata,02:04,15,0,3,3,3,2,46,58.95,2025-11-05
+T0456,KPN Travels,Pune,Hyderabad,21:44,0,0,5,4,5,3,11,51.6,2025-11-05
+T0114,TNSTC,Hyderabad,Mumbai,21:46,5,0,1,5,2,3,28,98.75,2025-11-05
+T0817,TNSTC,Kolkata,Chennai,21:28,0,1,4,4,3,5,12,85.61,2025-11-05
+T0602,VRL,Hyderabad,Kolkata,12:30,30,0,1,5,1,4,25,91.46,2025-11-05
+T0472,TNSTC,Pune,Hyderabad,06:46,0,0,1,4,1,2,58,95.31,2025-11-06
+T0005,Orange Travels,Hyderabad,Kolkata,16:45,10,1,1,3,5,4,24,61.05,2025-11-06
+T1024,VRL,Delhi,Chennai,14:02,5,1,5,5,4,2,29,80.54,2025-11-07
+T1067,SRS Travels,Bangalore,Mumbai,06:30,5,0,1,2,3,1,55,45.39,2025-11-08
+T1150,Parveen Travels,Chennai,Pune,20:18,20,0,2,3,4,1,11,59.81,2025-11-08
+T0680,Orange Travels,Pune,Hyderabad,12:43,10,0,5,2,2,1,34,60.58,2025-11-08
+T0215,Orange Travels,Bangalore,Delhi,18:58,0,0,2,4,4,5,35,49.37,2025-11-08
+T0667,SRS Travels,Kolkata,Delhi,12:43,15,0,5,1,4,1,43,94.51,2025-11-09
+T0794,Parveen Travels,Pune,Delhi,03:31,60,0,4,2,4,5,31,98.16,2025-11-10
+T0296,Orange Travels,Delhi,Pune,20:55,45,0,2,4,4,3,37,58.39,2025-11-10
+T0846,VRL,Mumbai,Hyderabad,20:41,45,0,4,1,1,4,48,43.74,2025-11-10
+T0790,KPN Travels,Kolkata,Chennai,14:08,15,1,4,3,3,4,58,46.6,2025-11-11
+T0234,Orange Travels,Kolkata,Bangalore,14:44,30,1,3,1,1,1,20,85.95,2025-11-11
+T0214,Orange Travels,Hyderabad,Kolkata,12:08,0,0,5,3,3,2,26,65.11,2025-11-12
+T0109,KPN Travels,Pune,Kolkata,13:47,20,0,3,2,5,3,58,88.78,2025-11-14
+T0634,Parveen Travels,Hyderabad,Kolkata,00:43,5,0,3,4,3,3,28,60.17,2025-11-14
+T0784,Parveen Travels,Hyderabad,Kolkata,01:47,20,1,2,3,4,5,20,48.29,2025-11-14
+T0463,VRL,Pune,Chennai,04:25,90,0,1,1,3,5,41,73.07,2025-11-15
+T0210,KSRTC,Mumbai,Pune,04:07,10,0,3,4,4,2,47,73.18,2025-11-15
+T0486,Parveen Travels,Pune,Delhi,01:10,60,0,1,3,1,1,55,60.61,2025-11-15
+T0865,KPN Travels,Hyderabad,Mumbai,17:42,45,1,3,5,2,5,13,59.99,2025-11-16
+T0459,KSRTC,Chennai,Delhi,23:58,10,0,5,4,1,1,24,74.82,2025-11-17
+T1180,Parveen Travels,Bangalore,Delhi,12:15,30,0,2,1,5,4,47,86.12,2025-11-18
+T0696,Parveen Travels,Chennai,Hyderabad,09:28,20,1,1,4,3,5,20,75.68,2025-11-18
+T0830,VRL,Delhi,Kolkata,18:07,60,0,2,3,1,4,26,69.33,2025-11-19
+T0570,VRL,Pune,Bangalore,22:20,10,0,3,2,2,5,54,71.08,2025-11-19
+T0382,SRS Travels,Bangalore,Kolkata,22:44,0,0,3,1,2,5,51,64.23,2025-11-20
+T0829,VRL,Mumbai,Chennai,05:45,30,0,2,1,1,5,45,78.69,2025-11-20
+T1099,SRS Travels,Kolkata,Pune,15:56,60,0,3,3,3,2,24,74.87,2025-11-20
+T0111,KPN Travels,Pune,Mumbai,20:48,5,0,4,5,5,4,47,53.81,2025-11-21
+T0466,KPN Travels,Delhi,Mumbai,01:25,0,0,5,5,1,4,44,61.21,2025-11-21
+T0556,Orange Travels,Bangalore,Mumbai,23:41,5,0,1,4,1,2,43,88.24,2025-11-21
+T0908,SRS Travels,Chennai,Mumbai,07:49,5,0,5,5,4,1,46,88.77,2025-11-21
+T1119,VRL,Hyderabad,Kolkata,17:36,10,0,5,4,4,4,51,83.32,2025-11-22
+T0437,KSRTC,Chennai,Bangalore,14:58,5,0,2,2,4,5,15,50.85,2025-11-22
+T0960,KPN Travels,Delhi,Mumbai,18:19,15,1,1,2,2,5,37,45.34,2025-11-22
+T0803,Orange Travels,Mumbai,Bangalore,10:28,5,0,5,2,4,2,56,99.83,2025-11-23
+T1044,TNSTC,Chennai,Mumbai,07:26,45,0,3,5,5,5,37,79.77,2025-11-24
+T0353,Orange Travels,Hyderabad,Kolkata,13:07,15,0,5,4,4,2,14,62.84,2025-11-26
+T1158,Parveen Travels,Kolkata,Pune,04:34,10,0,1,5,2,3,47,42.82,2025-11-26
+T0001,VRL,Mumbai,Kolkata,09:36,15,0,5,4,1,5,46,90.3,2025-11-26
+T0737,Orange Travels,Hyderabad,Pune,13:05,15,0,1,4,3,3,26,70.96,2025-11-27
+T0516,Orange Travels,Mumbai,Pune,07:20,60,0,5,4,4,4,23,59.97,2025-11-28
+T0557,Orange Travels,Hyderabad,Delhi,20:33,45,0,4,5,1,1,42,85.08,2025-11-28
+T0013,SRS Travels,Mumbai,Hyderabad,13:52,10,1,3,4,1,3,30,99.96,2025-11-28
+T0831,TNSTC,Bangalore,Kolkata,15:41,0,1,3,4,4,2,34,72.49,2025-11-28
+T0340,SRS Travels,Delhi,Hyderabad,22:30,90,0,2,1,1,5,59,93.59,2025-11-28
+T0632,KPN Travels,Mumbai,Chennai,16:54,0,0,3,4,2,4,53,87.43,2025-11-28
+T0406,KPN Travels,Chennai,Kolkata,17:06,30,1,1,3,4,2,51,65.2,2025-11-29
+T0615,VRL,Pune,Mumbai,02:58,30,0,3,3,1,4,59,91.81,2025-11-30
+T1128,SRS Travels,Pune,Hyderabad,15:24,0,1,1,5,3,1,52,67.84,2025-12-01
+T1017,KSRTC,Delhi,Mumbai,23:06,20,0,1,1,2,3,20,79.82,2025-12-01
+T0374,KSRTC,Kolkata,Chennai,22:31,5,0,4,5,5,4,22,76.44,2025-12-01
+T1138,TNSTC,Kolkata,Pune,13:07,0,0,3,2,3,4,50,46.76,2025-12-02
+T1105,VRL,Hyderabad,Delhi,03:12,5,0,1,4,2,1,47,43.11,2025-12-02
+T1157,Parveen Travels,Kolkata,Chennai,16:33,5,0,1,2,1,3,13,75.83,2025-12-02
+T0080,Orange Travels,Mumbai,Chennai,13:14,20,0,1,2,5,1,38,79.13,2025-12-02
+T0612,SRS Travels,Kolkata,Bangalore,13:32,30,1,1,3,3,4,36,91.34,2025-12-03
+T0591,TNSTC,Mumbai,Chennai,20:06,20,0,3,2,4,4,53,75.5,2025-12-03
+T0781,KPN Travels,Delhi,Bangalore,18:39,0,0,1,2,3,2,18,63.43,2025-12-03
+T0786,KPN Travels,Mumbai,Delhi,09:37,0,0,3,5,5,2,58,55.96,2025-12-03
+T0230,VRL,Hyderabad,Chennai,22:56,10,0,1,1,2,2,24,47.57,2025-12-04
+T0967,KPN Travels,Delhi,Mumbai,22:11,60,0,1,1,2,3,53,42.31,2025-12-05
+T0201,TNSTC,Delhi,Hyderabad,18:05,30,0,2,5,2,4,50,91.6,2025-12-06
+T1165,Orange Travels,Bangalore,Delhi,04:26,15,0,5,2,1,3,44,76.49,2025-12-06
+T0253,TNSTC,Pune,Chennai,05:12,0,0,1,3,4,2,58,54.89,2025-12-07
+T0900,KPN Travels,Bangalore,Pune,07:03,90,0,1,4,1,1,20,58.43,2025-12-07
+T0765,Orange Travels,Pune,Hyderabad,10:29,0,0,1,1,4,2,15,61.17,2025-12-07
+T1008,SRS Travels,Pune,Mumbai,11:56,0,0,5,4,5,2,60,50.71,2025-12-08
+T0251,KSRTC,Pune,Delhi,13:02,10,0,3,5,3,1,58,61.26,2025-12-11
+T0799,VRL,Pune,Hyderabad,16:37,90,0,1,1,2,5,23,68.82,2025-12-13
+T0056,VRL,Bangalore,Mumbai,23:15,15,0,5,1,5,4,36,60.37,2025-12-13
+T0424,KPN Travels,Bangalore,Chennai,05:55,60,1,3,4,5,2,34,47.99,2025-12-13
+T0009,Parveen Travels,Chennai,Delhi,14:27,15,0,4,3,1,5,34,41.33,2025-12-14
+T0194,SRS Travels,Hyderabad,Chennai,11:02,15,0,2,1,2,1,41,87.55,2025-12-14
+T0092,SRS Travels,Bangalore,Kolkata,07:20,0,1,1,1,1,3,27,96.27,2025-12-14
+T0867,VRL,Pune,Chennai,17:38,5,0,3,2,3,4,38,50.75,2025-12-15
+T0435,VRL,Delhi,Pune,04:51,0,0,3,1,2,5,42,71.44,2025-12-15
+T0164,SRS Travels,Chennai,Hyderabad,18:24,15,0,5,1,1,4,24,52.97,2025-12-15
+T1115,Orange Travels,Delhi,Hyderabad,18:25,0,0,3,1,5,5,45,87.94,2025-12-16
+T1166,Orange Travels,Kolkata,Delhi,12:52,5,0,4,3,2,5,39,76.65,2025-12-16
+T0077,TNSTC,Chennai,Mumbai,15:47,0,0,3,2,3,5,20,54.7,2025-12-17
+T0666,Orange Travels,Hyderabad,Pune,21:20,10,0,5,5,5,4,55,65.98,2025-12-17
+T0805,VRL,Mumbai,Pune,21:10,30,0,2,5,3,2,51,94.53,2025-12-17
+T1178,KPN Travels,Bangalore,Mumbai,02:52,15,0,4,4,3,2,41,79.44,2025-12-18
+T0160,TNSTC,Delhi,Chennai,07:20,15,0,2,5,1,4,18,99.94,2025-12-18
+T0313,VRL,Pune,Kolkata,03:05,10,0,1,2,3,1,49,58.87,2025-12-18
+T1133,VRL,Bangalore,Kolkata,06:12,0,0,2,5,4,5,29,89.57,2025-12-20
+T0949,Orange Travels,Delhi,Kolkata,13:57,60,0,2,2,4,5,41,79.18,2025-12-20
+T0318,Orange Travels,Delhi,Hyderabad,21:22,0,0,1,5,2,3,56,79.54,2025-12-21
+T0409,Parveen Travels,Kolkata,Chennai,03:34,15,0,1,5,3,5,48,44.14,2025-12-21
+T0574,KPN Travels,Pune,Hyderabad,17:19,15,0,2,1,3,4,24,87.85,2025-12-21
+T0955,Parveen Travels,Mumbai,Hyderabad,11:53,20,0,5,1,4,2,46,49.48,2025-12-21
+T0553,KSRTC,Delhi,Kolkata,03:33,10,1,5,3,2,3,51,80.75,2025-12-21
+T1189,SRS Travels,Bangalore,Mumbai,12:41,30,0,5,3,2,2,29,85.2,2025-12-21
+T0722,TNSTC,Mumbai,Delhi,08:37,45,0,1,1,1,5,10,87.35,2025-12-22
+T0196,Parveen Travels,Bangalore,Pune,03:01,60,0,5,2,4,1,47,79.63,2025-12-22
+T0148,VRL,Kolkata,Bangalore,16:56,15,1,5,2,3,2,53,77.24,2025-12-23
+T0885,KPN Travels,Bangalore,Kolkata,15:05,5,0,2,1,3,4,56,54.27,2025-12-23
+T0928,KPN Travels,Chennai,Bangalore,13:20,15,0,4,4,5,3,17,54.74,2025-12-23
+T0144,KPN Travels,Mumbai,Chennai,06:17,20,0,4,1,2,4,40,86.41,2025-12-24
+T0566,KPN Travels,Kolkata,Pune,05:42,5,0,3,2,4,1,60,81.34,2025-12-25
+T0801,VRL,Delhi,Mumbai,19:25,45,0,2,3,5,3,60,61.65,2025-12-25
